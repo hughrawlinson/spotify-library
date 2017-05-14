@@ -1,0 +1,3957 @@
+{
+  "href" : "https://api.spotify.com/v1/me/tracks?offset=350&limit=50&market=from_token",
+  "items" : [ {
+    "added_at" : "2016-12-04T17:21:38Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id" : "5MmVJVhhYKQ86izuGHzJYA",
+          "name" : "MIKA",
+          "type" : "artist",
+          "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/44bvBM46CNazkTr3TUBR9r"
+        },
+        "href" : "https://api.spotify.com/v1/albums/44bvBM46CNazkTr3TUBR9r",
+        "id" : "44bvBM46CNazkTr3TUBR9r",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2bb7637a4e9a978e300e2ba69fdee39b1b90ff1f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/e796a1aaa484a8181a664967acf02e1d69044531",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/6ed7d94d7c1da908234138e55dd8ced962330100",
+          "width" : 64
+        } ],
+        "name" : "No Place In Heaven (Special Edition)",
+        "type" : "album",
+        "uri" : "spotify:album:44bvBM46CNazkTr3TUBR9r"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 250960,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71516374"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5LExiDL7IM8Nc0q852og1a"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5LExiDL7IM8Nc0q852og1a",
+      "id" : "5LExiDL7IM8Nc0q852og1a",
+      "is_playable" : true,
+      "name" : "Last Party - Orchestra Version",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/cf163c37fe97ab0081ea61c2a5defb4d0913a4f2?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:5LExiDL7IM8Nc0q852og1a"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:21:38Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id" : "5MmVJVhhYKQ86izuGHzJYA",
+          "name" : "MIKA",
+          "type" : "artist",
+          "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/44bvBM46CNazkTr3TUBR9r"
+        },
+        "href" : "https://api.spotify.com/v1/albums/44bvBM46CNazkTr3TUBR9r",
+        "id" : "44bvBM46CNazkTr3TUBR9r",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2bb7637a4e9a978e300e2ba69fdee39b1b90ff1f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/e796a1aaa484a8181a664967acf02e1d69044531",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/6ed7d94d7c1da908234138e55dd8ced962330100",
+          "width" : 64
+        } ],
+        "name" : "No Place In Heaven (Special Edition)",
+        "type" : "album",
+        "uri" : "spotify:album:44bvBM46CNazkTr3TUBR9r"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 302653,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71516375"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/62aRPFGWqnyGddqkZIrKTA"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/62aRPFGWqnyGddqkZIrKTA",
+      "id" : "62aRPFGWqnyGddqkZIrKTA",
+      "is_playable" : true,
+      "name" : "Origin Of Love - Orchestra Version",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1a5014e9695996401a5943981f5c0f9eab13d713?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:62aRPFGWqnyGddqkZIrKTA"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:21:38Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id" : "5MmVJVhhYKQ86izuGHzJYA",
+          "name" : "MIKA",
+          "type" : "artist",
+          "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/44bvBM46CNazkTr3TUBR9r"
+        },
+        "href" : "https://api.spotify.com/v1/albums/44bvBM46CNazkTr3TUBR9r",
+        "id" : "44bvBM46CNazkTr3TUBR9r",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2bb7637a4e9a978e300e2ba69fdee39b1b90ff1f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/e796a1aaa484a8181a664967acf02e1d69044531",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/6ed7d94d7c1da908234138e55dd8ced962330100",
+          "width" : 64
+        } ],
+        "name" : "No Place In Heaven (Special Edition)",
+        "type" : "album",
+        "uri" : "spotify:album:44bvBM46CNazkTr3TUBR9r"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 338746,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71516386"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3bmOs90wJv2An44gnbk3uu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3bmOs90wJv2An44gnbk3uu",
+      "id" : "3bmOs90wJv2An44gnbk3uu",
+      "is_playable" : true,
+      "name" : "Happy Ending - Orchestra Version",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/90c56ebe1eaca0bbe304d4d5e28b693202f0f487?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:3bmOs90wJv2An44gnbk3uu"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:21:38Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id" : "5MmVJVhhYKQ86izuGHzJYA",
+          "name" : "MIKA",
+          "type" : "artist",
+          "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/44bvBM46CNazkTr3TUBR9r"
+        },
+        "href" : "https://api.spotify.com/v1/albums/44bvBM46CNazkTr3TUBR9r",
+        "id" : "44bvBM46CNazkTr3TUBR9r",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2bb7637a4e9a978e300e2ba69fdee39b1b90ff1f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/e796a1aaa484a8181a664967acf02e1d69044531",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/6ed7d94d7c1da908234138e55dd8ced962330100",
+          "width" : 64
+        } ],
+        "name" : "No Place In Heaven (Special Edition)",
+        "type" : "album",
+        "uri" : "spotify:album:44bvBM46CNazkTr3TUBR9r"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 293453,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71516376"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2ooBR8gM5U6qTCOsjizACk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2ooBR8gM5U6qTCOsjizACk",
+      "id" : "2ooBR8gM5U6qTCOsjizACk",
+      "is_playable" : true,
+      "name" : "Over My Shoulder - Orchestra Version",
+      "popularity" : 37,
+      "preview_url" : "https://p.scdn.co/mp3-preview/663cb73b1e757acffb24d31a27c37cbdee859e20?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:2ooBR8gM5U6qTCOsjizACk"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:21:38Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id" : "5MmVJVhhYKQ86izuGHzJYA",
+          "name" : "MIKA",
+          "type" : "artist",
+          "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/44bvBM46CNazkTr3TUBR9r"
+        },
+        "href" : "https://api.spotify.com/v1/albums/44bvBM46CNazkTr3TUBR9r",
+        "id" : "44bvBM46CNazkTr3TUBR9r",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2bb7637a4e9a978e300e2ba69fdee39b1b90ff1f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/e796a1aaa484a8181a664967acf02e1d69044531",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/6ed7d94d7c1da908234138e55dd8ced962330100",
+          "width" : 64
+        } ],
+        "name" : "No Place In Heaven (Special Edition)",
+        "type" : "album",
+        "uri" : "spotify:album:44bvBM46CNazkTr3TUBR9r"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 260680,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71516377"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1mC1wKlTdlCjCag5ruItHR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1mC1wKlTdlCjCag5ruItHR",
+      "id" : "1mC1wKlTdlCjCag5ruItHR",
+      "is_playable" : true,
+      "name" : "Good Guys - Orchestra Version",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/259f6cad852d58e3af162777c3172978f13f02d5?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:1mC1wKlTdlCjCag5ruItHR"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:21:38Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id" : "5MmVJVhhYKQ86izuGHzJYA",
+          "name" : "MIKA",
+          "type" : "artist",
+          "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/44bvBM46CNazkTr3TUBR9r"
+        },
+        "href" : "https://api.spotify.com/v1/albums/44bvBM46CNazkTr3TUBR9r",
+        "id" : "44bvBM46CNazkTr3TUBR9r",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2bb7637a4e9a978e300e2ba69fdee39b1b90ff1f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/e796a1aaa484a8181a664967acf02e1d69044531",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/6ed7d94d7c1da908234138e55dd8ced962330100",
+          "width" : 64
+        } ],
+        "name" : "No Place In Heaven (Special Edition)",
+        "type" : "album",
+        "uri" : "spotify:album:44bvBM46CNazkTr3TUBR9r"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 249026,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71516381"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3fx0AqHTLlnQ1BRVhRpBfa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3fx0AqHTLlnQ1BRVhRpBfa",
+      "id" : "3fx0AqHTLlnQ1BRVhRpBfa",
+      "is_playable" : true,
+      "name" : "Rain - Orchestra Version",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e366b71591e097f7de622714a6f6d273c52fff78?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:3fx0AqHTLlnQ1BRVhRpBfa"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:21:38Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id" : "5MmVJVhhYKQ86izuGHzJYA",
+          "name" : "MIKA",
+          "type" : "artist",
+          "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/44bvBM46CNazkTr3TUBR9r"
+        },
+        "href" : "https://api.spotify.com/v1/albums/44bvBM46CNazkTr3TUBR9r",
+        "id" : "44bvBM46CNazkTr3TUBR9r",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2bb7637a4e9a978e300e2ba69fdee39b1b90ff1f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/e796a1aaa484a8181a664967acf02e1d69044531",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/6ed7d94d7c1da908234138e55dd8ced962330100",
+          "width" : 64
+        } ],
+        "name" : "No Place In Heaven (Special Edition)",
+        "type" : "album",
+        "uri" : "spotify:album:44bvBM46CNazkTr3TUBR9r"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 288933,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71516382"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7zAdZfxVCt9zCAIQViv24n"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7zAdZfxVCt9zCAIQViv24n",
+      "id" : "7zAdZfxVCt9zCAIQViv24n",
+      "is_playable" : true,
+      "name" : "Any Other World - Orchestra Version",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9410ef8c3c8dbd0a3ffc53c8214b93158535fae5?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:7zAdZfxVCt9zCAIQViv24n"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:21:38Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id" : "5MmVJVhhYKQ86izuGHzJYA",
+          "name" : "MIKA",
+          "type" : "artist",
+          "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/44bvBM46CNazkTr3TUBR9r"
+        },
+        "href" : "https://api.spotify.com/v1/albums/44bvBM46CNazkTr3TUBR9r",
+        "id" : "44bvBM46CNazkTr3TUBR9r",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2bb7637a4e9a978e300e2ba69fdee39b1b90ff1f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/e796a1aaa484a8181a664967acf02e1d69044531",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/6ed7d94d7c1da908234138e55dd8ced962330100",
+          "width" : 64
+        } ],
+        "name" : "No Place In Heaven (Special Edition)",
+        "type" : "album",
+        "uri" : "spotify:album:44bvBM46CNazkTr3TUBR9r"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 265000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71516384"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2huU1K0xU50ubSUMCglYL7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2huU1K0xU50ubSUMCglYL7",
+      "id" : "2huU1K0xU50ubSUMCglYL7",
+      "is_playable" : true,
+      "name" : "Love Today - Orchestra Version",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4fbddafe6a3b1d5d513b91b564c85222d7cb009e?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:2huU1K0xU50ubSUMCglYL7"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:21:38Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+          "id" : "5MmVJVhhYKQ86izuGHzJYA",
+          "name" : "MIKA",
+          "type" : "artist",
+          "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/44bvBM46CNazkTr3TUBR9r"
+        },
+        "href" : "https://api.spotify.com/v1/albums/44bvBM46CNazkTr3TUBR9r",
+        "id" : "44bvBM46CNazkTr3TUBR9r",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2bb7637a4e9a978e300e2ba69fdee39b1b90ff1f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/e796a1aaa484a8181a664967acf02e1d69044531",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/6ed7d94d7c1da908234138e55dd8ced962330100",
+          "width" : 64
+        } ],
+        "name" : "No Place In Heaven (Special Edition)",
+        "type" : "album",
+        "uri" : "spotify:album:44bvBM46CNazkTr3TUBR9r"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 269546,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71516385"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1mnR6LcC0amvibwj36o2oz"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1mnR6LcC0amvibwj36o2oz",
+      "id" : "1mnR6LcC0amvibwj36o2oz",
+      "is_playable" : true,
+      "name" : "Elle Me Dit - Orchestra Version",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9197b6ba58767c1b7d241fcfd28b4175d22f0566?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:1mnR6LcC0amvibwj36o2oz"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 181706,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199301"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6GPPGBvZrYJ1wkFSh4ztXP"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6GPPGBvZrYJ1wkFSh4ztXP",
+      "id" : "6GPPGBvZrYJ1wkFSh4ztXP",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 1: Nos. 1-6. 6 Unison Melodies",
+      "popularity" : 4,
+      "preview_url" : "https://p.scdn.co/mp3-preview/24176732ce6fc035243941e51fe5f531180e860c?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6GPPGBvZrYJ1wkFSh4ztXP"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 152013,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199302"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/69IDd0lkHfWWI3Dey4XPdk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/69IDd0lkHfWWI3Dey4XPdk",
+      "id" : "69IDd0lkHfWWI3Dey4XPdk",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 1: Nos. 7-10. Dotted notes. Repetition. Syncopation. With Alternate Hands",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d04d756e17b76398b8eb7543d680a70b4a50f193?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:69IDd0lkHfWWI3Dey4XPdk"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 256000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199303"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1iVnEY97a4y81Lb8yyxvg1"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1iVnEY97a4y81Lb8yyxvg1",
+      "id" : "1iVnEY97a4y81Lb8yyxvg1",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 1: Nos. 11-17. Parallel Motion. Reflection. Change of Position. Question and Answer. Village Song. Parallel Motion and Change of Position. …",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e2e79f28dd8071a260d3ae350ecdc483107230b5?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:1iVnEY97a4y81Lb8yyxvg1"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 123973,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199304"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/722Vp7PIdN78szZ4K13dTk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/722Vp7PIdN78szZ4K13dTk",
+      "id" : "722Vp7PIdN78szZ4K13dTk",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 1: Nos. 18-21. 4 Unison Melodies",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ed739a8dc78c40c13f18cca771521325fd744ea3?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:722Vp7PIdN78szZ4K13dTk"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 174000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199305"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1S0Gt9fzKdSomSjgDkHo9o"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1S0Gt9fzKdSomSjgDkHo9o",
+      "id" : "1S0Gt9fzKdSomSjgDkHo9o",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 1: Nos. 22-25. Imitation and Counterpoint. Imitation and Inversion. Pastorale. Imitation and Inversion",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6e6e76115311ab392ff4d6e6452a7a371397970b?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:1S0Gt9fzKdSomSjgDkHo9o"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 241893,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199306"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7bQ1YOQwP5RcHGFb3Si9F7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7bQ1YOQwP5RcHGFb3Si9F7",
+      "id" : "7bQ1YOQwP5RcHGFb3Si9F7",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 1: Nos. 26-31. Repetition. Syncopation. Canon at the Octave. Imitation Reflected. Canon at the Lower 5th. Little Dance in Canon Form",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1138cb460cdd773615ff0de374b40cd6e8c6db2b?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:7bQ1YOQwP5RcHGFb3Si9F7"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 280893,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199307"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0vlGM4N10EhyC7VTMWuP71"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0vlGM4N10EhyC7VTMWuP71",
+      "id" : "0vlGM4N10EhyC7VTMWuP71",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 1: Nos. 32-36. In Dorian Mode. Slow Dance. In Phrygian Mode. Chorale. Free Canon",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d799390751d332c2ca5cf6c36a3eaca00f527537?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:0vlGM4N10EhyC7VTMWuP71"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 247880,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199308"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2bNSE3yeLzQPD47Z9DU2li"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2bNSE3yeLzQPD47Z9DU2li",
+      "id" : "2bNSE3yeLzQPD47Z9DU2li",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 2: Nos. 37-42. In Lydian Mode. Staccato and Legato [1 and 2]. In Yugoslav Mode. Melody with Accompaniment. Accompaniment in Broken Triads.",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/20645c7e5beca8498d3ac449d248834644ed6ac0?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:2bNSE3yeLzQPD47Z9DU2li"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 168053,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199309"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3YS67UdiElUItzoeVguPJC"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3YS67UdiElUItzoeVguPJC",
+      "id" : "3YS67UdiElUItzoeVguPJC",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 2: Nos. 43-46. In Hungarian Style. Contrary Motion. Meditation. Increasing-Diminishing.",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d9c562cbd2af46bbe7867ff97cc3cec77bd81ab9?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:3YS67UdiElUItzoeVguPJC"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 132920,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199310"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0DLj38wqGSdc9aZtKXJWH3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0DLj38wqGSdc9aZtKXJWH3",
+      "id" : "0DLj38wqGSdc9aZtKXJWH3",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 2: Nos. 47-50. Big Fair. In Mixolydian Mode. Crescendo-Dimenuendo. Minuet.",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6e9905ca564db0f960cbfc4890cc617f83eb593c?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:0DLj38wqGSdc9aZtKXJWH3"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 249866,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199311"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/53USccvETx6TXUVn2FO4MO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/53USccvETx6TXUVn2FO4MO",
+      "id" : "53USccvETx6TXUVn2FO4MO",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 2: Nos. 51-57. Waves. Unison Divided. In Transylvanian Style. Chromatic. Triplets in Lydian Mode. Melody in 10ths. Accents.",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/114d66329dc6cfe4350997c242873909dd7e5fe0?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:53USccvETx6TXUVn2FO4MO"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 239320,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199312"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1n1w9p6piKVMAM5ivODEZB"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1n1w9p6piKVMAM5ivODEZB",
+      "id" : "1n1w9p6piKVMAM5ivODEZB",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 2: Nos. 58-62. In Oriental Style. Major anD Minor. Canon with Sustained Notes. Pentatonic Melody. Minor 6ths in Parallel Motion",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d8a0a8f9f04fe3d863807a442957b36438cb6953?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:1n1w9p6piKVMAM5ivODEZB"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 200960,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199313"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5CcPEa5zSw9GNqcaqlVcsc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5CcPEa5zSw9GNqcaqlVcsc",
+      "id" : "5CcPEa5zSw9GNqcaqlVcsc",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 2: Nos. 63-66. Buzzing. Line and Point (a, b). Dialogue. Melody Divided",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4910c4d369af7b4f4d3c6ab9030ad531e1f0cc20?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:5CcPEa5zSw9GNqcaqlVcsc"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 360040,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199314"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7KxrqozcA7QNT3GP0CZklt"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7KxrqozcA7QNT3GP0CZklt",
+      "id" : "7KxrqozcA7QNT3GP0CZklt",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, Sz. 107, Vol. 3: Nos. 67-73. 3rds against a Single Voice. Hungarian Dance (a, b). A Chord Study. Melody against Double Notes. 3rds. Dragon's Dance. 6ths and…",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d12dd35af0e6e6e148347acca4acc24d4d480bfd?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:7KxrqozcA7QNT3GP0CZklt"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 174440,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199315"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3dqE9gvi4YdZoCl7DtWtqJ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3dqE9gvi4YdZoCl7DtWtqJ",
+      "id" : "3dqE9gvi4YdZoCl7DtWtqJ",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, Sz. 107, Vol. 3: Nos. 74-78. Hungarian Song (a). Triplets. In 3 Parts. Little Study. 5-Tone Scale",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f59ccfdc55d98111f19665dd354c22bd308b2ae8?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:3dqE9gvi4YdZoCl7DtWtqJ"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 78106,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199316"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/04s8dAp5kH1eOlI6M0xYpO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/04s8dAp5kH1eOlI6M0xYpO",
+      "id" : "04s8dAp5kH1eOlI6M0xYpO",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, Sz. 107, Vol. 3: Nos. 79-80. Hommage a J.S.B.. Hommage a R. Sch.",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/dde42699bf17cd8da786804ec4e0913d38a7e1c1?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:04s8dAp5kH1eOlI6M0xYpO"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 325706,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199317"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7v3btMbycheX7eDM3FsiRl"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7v3btMbycheX7eDM3FsiRl",
+      "id" : "7v3btMbycheX7eDM3FsiRl",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, Sz. 107, Vol. 3: Nos. 81-86. Wandering. Scherzo. Melody with Interruptions. Merriment. Broken Chords. 2 Major Pentachords",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/625ff486a25a8f656eacf84f90e3f359dab30979?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:7v3btMbycheX7eDM3FsiRl"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 227613,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199318"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5QlmV5VKqIyFqn8Cx1TxHm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5QlmV5VKqIyFqn8Cx1TxHm",
+      "id" : "5QlmV5VKqIyFqn8Cx1TxHm",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, Sz. 107, Vol. 3: Nos. 87-90. Variations. Duet for Pipes. In 4 Parts. In Russian Style",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/74a00853120f8b79d4f6987c2351e2e24ff38f0b?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 18,
+      "type" : "track",
+      "uri" : "spotify:track:5QlmV5VKqIyFqn8Cx1TxHm"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 98973,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199319"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6GMkvL0Q8nMQHvusVfJ59G"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6GMkvL0Q8nMQHvusVfJ59G",
+      "id" : "6GMkvL0Q8nMQHvusVfJ59G",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, Sz. 107, Vol. 3: Nos. 91-92. Chromatic Invention 1. Chromatic Invention 2",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/41f78035a1d840057d7cfb76cdeac9324f86f6f1?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:6GMkvL0Q8nMQHvusVfJ59G"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 174066,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199320"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0zIB2YCKVlwsJ9VjIYNo0r"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0zIB2YCKVlwsJ9VjIYNo0r",
+      "id" : "0zIB2YCKVlwsJ9VjIYNo0r",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, Sz. 107, Vol. 3: Nos. 93, 94, 95a, 96. In 4 Parts. Tale. Song of the Fox. Stumblings",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ff944ad6bf54424967255eadff14342672b6316b?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 20,
+      "type" : "track",
+      "uri" : "spotify:track:0zIB2YCKVlwsJ9VjIYNo0r"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 308493,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199401"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6CeDuzdLQ47akYtpuqUV5P"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6CeDuzdLQ47akYtpuqUV5P",
+      "id" : "6CeDuzdLQ47akYtpuqUV5P",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 4: Nos. 97-101. Notturno. Thumb Under. Crossed Hands. In the Style of a Folksong. Diminished 5th",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/78d0f43f7247c0af0735537b07fb2ae57a9346b8?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6CeDuzdLQ47akYtpuqUV5P"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 466453,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199402"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3hlOd5Nr55vVo0AQjGXJMX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3hlOd5Nr55vVo0AQjGXJMX",
+      "id" : "3hlOd5Nr55vVo0AQjGXJMX",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 4: Nos. 102-108. Harmonics. Minor anD Major. Through the Keys (a,b). Playsong (with 2 pentatonic scales). Children's Song. Melody in the Mist.…",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1f050cf423de8a2f823a2573812e5a9aab71e16b?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:3hlOd5Nr55vVo0AQjGXJMX"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 331680,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199403"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/38cOGEoMhZ8YpDiFp8SJr2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/38cOGEoMhZ8YpDiFp8SJr2",
+      "id" : "38cOGEoMhZ8YpDiFp8SJr2",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 4: Nos. 109-112. From the Island of Bali. Clashing Sounds. Intermezzo. Variations on a Folktune",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/33a0bf06f015a14d61f30f057b09ec1eae4ec28c?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:38cOGEoMhZ8YpDiFp8SJr2"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 283960,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199404"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1LTYqk6D0Ix6Oo7pIMhVaA"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1LTYqk6D0Ix6Oo7pIMhVaA",
+      "id" : "1LTYqk6D0Ix6Oo7pIMhVaA",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 4: Nos. 113-117. Bulgarian Rhythm 1. Theme and Inversion. Bulgarian Rhythm 2. Melody. Bourree",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2f3f889a0ada01911f9e71bc4ddbec43cd583996?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:1LTYqk6D0Ix6Oo7pIMhVaA"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 202440,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199405"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1oHUzhSO5KsDwHZAV9iYzV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1oHUzhSO5KsDwHZAV9iYzV",
+      "id" : "1oHUzhSO5KsDwHZAV9iYzV",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 4: Nos. 118-121. Triplets in 9/8 Time. Dance in 3/4 Time. 5th Chords. 2-Part Study",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f3ff77177800f7ef047ac03b0fb7e0d688066bc7?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:1oHUzhSO5KsDwHZAV9iYzV"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 167066,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199406"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4gJkaSLTpxDNoSk3iZ6yxp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4gJkaSLTpxDNoSk3iZ6yxp",
+      "id" : "4gJkaSLTpxDNoSk3iZ6yxp",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 5: Nos. 122-124. Chords Together and Opposed. Staccato and Legato (a,b). Staccato",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5b41fab0863ac2a381d0fd162f8880547bc9bcba?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:4gJkaSLTpxDNoSk3iZ6yxp"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 204626,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199407"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7a9Z1IOIJBrBuhAAXKSiSU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7a9Z1IOIJBrBuhAAXKSiSU",
+      "id" : "7a9Z1IOIJBrBuhAAXKSiSU",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 5: Nos. 125, 126, 128. Boating. Change of Time. Peasant Dance",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b3408912fc1261029acdd8029855434a56d88e3b?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:7a9Z1IOIJBrBuhAAXKSiSU"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 335493,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199408"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0CDHTemPJmXsYAxAhijOuY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0CDHTemPJmXsYAxAhijOuY",
+      "id" : "0CDHTemPJmXsYAxAhijOuY",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 5: Nos. 129-131. Alternating 3rds. Village Joke. 4ths",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/41d631e42bec74e991cee80830f4508132d99062?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:0CDHTemPJmXsYAxAhijOuY"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 106013,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199409"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5k0QKNeG02hd3DDjiBodBD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5k0QKNeG02hd3DDjiBodBD",
+      "id" : "5k0QKNeG02hd3DDjiBodBD",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 5: Nos. 132-135. Major 2nds Broken and Together. Syncopation. Studies in Double Notes (1,2,3). Perpetuum Mobile",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c1e22a1c02089557f740f19bf8f3bee7118d5cc6?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:5k0QKNeG02hd3DDjiBodBD"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 362933,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199410"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1fchIZxtZSIY3bb4s7avEu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1fchIZxtZSIY3bb4s7avEu",
+      "id" : "1fchIZxtZSIY3bb4s7avEu",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 5: Nos. 136-139. Whole-Tone Scale. Unison. Bagpipe. Merry Andrew",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3f1e011b744dbf45c89205e2af8e794e1493663c?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:1fchIZxtZSIY3bb4s7avEu"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 176240,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199411"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/10Z8AJUk0Yrqk4SvYgj8WL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/10Z8AJUk0Yrqk4SvYgj8WL",
+      "id" : "10Z8AJUk0Yrqk4SvYgj8WL",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 6: Nos. 140-141. Free Variations. Subject and Reflection",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9196a3b9597a4035968bd52e08c4a17443157f06?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:10Z8AJUk0Yrqk4SvYgj8WL"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 92160,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199412"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6XiELhU4KUb5tXM5VcY762"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6XiELhU4KUb5tXM5VcY762",
+      "id" : "6XiELhU4KUb5tXM5VcY762",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 6: No. 142. From the Diary of a Fly",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/fa6b52eac19b5eab0a00444447e7ed1adaba96da?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:6XiELhU4KUb5tXM5VcY762"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 388853,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199413"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7d92M5JvyeXSvCdPHs25ne"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7d92M5JvyeXSvCdPHs25ne",
+      "id" : "7d92M5JvyeXSvCdPHs25ne",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 6: Nos. 143-144. Divided Arpeggios. Minor 2nds, Major 7ths",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/edfe3842086f50edf8023ef372eca25fcf07dfbf?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:7d92M5JvyeXSvCdPHs25ne"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 124693,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199414"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/09nsV2zco6sw3NHcN6ygwK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/09nsV2zco6sw3NHcN6ygwK",
+      "id" : "09nsV2zco6sw3NHcN6ygwK",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 6: No. 145. Chromatic Invention (a, b)",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/48f9db51faf969b06172dc2535131d8e03a58307?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:09nsV2zco6sw3NHcN6ygwK"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 257160,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199415"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7ceZzXYRp1hpDkrNg5fiTV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7ceZzXYRp1hpDkrNg5fiTV",
+      "id" : "7ceZzXYRp1hpDkrNg5fiTV",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 6: Nos. 146-147. Ostinato. March",
+      "popularity" : 1,
+      "preview_url" : "https://p.scdn.co/mp3-preview/be092886e693357381dbfc5f3ef43a9c48d22e2e?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:7ceZzXYRp1hpDkrNg5fiTV"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:25:57Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+          "id" : "5zyNXVd952fWOjkdGHCvPd",
+          "name" : "Béla Bartók",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+          "id" : "3qsSwGC1UJtfNjZW69ObhI",
+          "name" : "Ditta Bartok-Pasztory",
+          "type" : "artist",
+          "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0g5ZKuzD9grayefYMONvUV"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0g5ZKuzD9grayefYMONvUV",
+        "id" : "0g5ZKuzD9grayefYMONvUV",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/dfb17dd1514a43b36d43acced28cffc1f86a64e7",
+          "width" : 638
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3342e3fc0d346a7d03f6d9f3c72f0cba02d46d26",
+          "width" : 299
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/e3da8d860a08aca694f1b1713c9543789a06b195",
+          "width" : 64
+        } ],
+        "name" : "Bartok: Mikrokosmos",
+        "type" : "album",
+        "uri" : "spotify:album:0g5ZKuzD9grayefYMONvUV"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zyNXVd952fWOjkdGHCvPd",
+        "id" : "5zyNXVd952fWOjkdGHCvPd",
+        "name" : "Béla Bartók",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zyNXVd952fWOjkdGHCvPd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3qsSwGC1UJtfNjZW69ObhI",
+        "id" : "3qsSwGC1UJtfNjZW69ObhI",
+        "name" : "Ditta Bartok-Pasztory",
+        "type" : "artist",
+        "uri" : "spotify:artist:3qsSwGC1UJtfNjZW69ObhI"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 515213,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "HUA253199416"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/72SHRIYtq0ZYcwNzvzQMw0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/72SHRIYtq0ZYcwNzvzQMw0",
+      "id" : "72SHRIYtq0ZYcwNzvzQMw0",
+      "is_playable" : true,
+      "name" : "Mikrokosmos, BB 105, Vol. 6: Nos. 148-153. 6 Dances in Bulgarian Rhythm",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/65eac421166579734d461c889b4bcb0c44bdf6f0?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:72SHRIYtq0ZYcwNzvzQMw0"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:08:15Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+          "id" : "1gR0gsQYfi6joyO1dlp76N",
+          "name" : "Justice",
+          "type" : "artist",
+          "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3Nkafp6ZTb1F0bTaAO0ePL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3Nkafp6ZTb1F0bTaAO0ePL",
+        "id" : "3Nkafp6ZTb1F0bTaAO0ePL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/f26752e6fe6c514219b05f77624ef4098deb8da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/0402aa1ec14c48d23610f3a2a36f32e0e6fca1fd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a07b4abf21de974b4c9557b4aeeeab1b39f8f9ac",
+          "width" : 64
+        } ],
+        "name" : "Woman",
+        "type" : "album",
+        "uri" : "spotify:album:3Nkafp6ZTb1F0bTaAO0ePL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+        "id" : "1gR0gsQYfi6joyO1dlp76N",
+        "name" : "Justice",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 345303,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR9W11607807"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/26NQzsYvTbSutlj2i4ILXW"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/26NQzsYvTbSutlj2i4ILXW",
+      "id" : "26NQzsYvTbSutlj2i4ILXW",
+      "is_playable" : true,
+      "name" : "Safe and Sound",
+      "popularity" : 56,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b62087bd9584e65815a70a731070a82bae05b5db?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:26NQzsYvTbSutlj2i4ILXW"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:08:15Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+          "id" : "1gR0gsQYfi6joyO1dlp76N",
+          "name" : "Justice",
+          "type" : "artist",
+          "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3Nkafp6ZTb1F0bTaAO0ePL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3Nkafp6ZTb1F0bTaAO0ePL",
+        "id" : "3Nkafp6ZTb1F0bTaAO0ePL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/f26752e6fe6c514219b05f77624ef4098deb8da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/0402aa1ec14c48d23610f3a2a36f32e0e6fca1fd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a07b4abf21de974b4c9557b4aeeeab1b39f8f9ac",
+          "width" : 64
+        } ],
+        "name" : "Woman",
+        "type" : "album",
+        "uri" : "spotify:album:3Nkafp6ZTb1F0bTaAO0ePL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+        "id" : "1gR0gsQYfi6joyO1dlp76N",
+        "name" : "Justice",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 255961,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR9W11607808"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1nX4xiH1faoEiPap70rc5p"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1nX4xiH1faoEiPap70rc5p",
+      "id" : "1nX4xiH1faoEiPap70rc5p",
+      "is_playable" : true,
+      "name" : "Pleasure",
+      "popularity" : 52,
+      "preview_url" : "https://p.scdn.co/mp3-preview/26b69a227346b374e0ec14619faa6b8c79db1398?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:1nX4xiH1faoEiPap70rc5p"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:08:15Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+          "id" : "1gR0gsQYfi6joyO1dlp76N",
+          "name" : "Justice",
+          "type" : "artist",
+          "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3Nkafp6ZTb1F0bTaAO0ePL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3Nkafp6ZTb1F0bTaAO0ePL",
+        "id" : "3Nkafp6ZTb1F0bTaAO0ePL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/f26752e6fe6c514219b05f77624ef4098deb8da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/0402aa1ec14c48d23610f3a2a36f32e0e6fca1fd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a07b4abf21de974b4c9557b4aeeeab1b39f8f9ac",
+          "width" : 64
+        } ],
+        "name" : "Woman",
+        "type" : "album",
+        "uri" : "spotify:album:3Nkafp6ZTb1F0bTaAO0ePL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+        "id" : "1gR0gsQYfi6joyO1dlp76N",
+        "name" : "Justice",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 311490,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR9W11614930"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0ma6IAmnvlik8oxgf8HUQg"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0ma6IAmnvlik8oxgf8HUQg",
+      "id" : "0ma6IAmnvlik8oxgf8HUQg",
+      "is_playable" : true,
+      "name" : "Alakazam !",
+      "popularity" : 52,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2a026c6f7e400a09d72e951d3e1a82eb176190ec?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:0ma6IAmnvlik8oxgf8HUQg"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:08:15Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+          "id" : "1gR0gsQYfi6joyO1dlp76N",
+          "name" : "Justice",
+          "type" : "artist",
+          "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3Nkafp6ZTb1F0bTaAO0ePL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3Nkafp6ZTb1F0bTaAO0ePL",
+        "id" : "3Nkafp6ZTb1F0bTaAO0ePL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/f26752e6fe6c514219b05f77624ef4098deb8da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/0402aa1ec14c48d23610f3a2a36f32e0e6fca1fd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a07b4abf21de974b4c9557b4aeeeab1b39f8f9ac",
+          "width" : 64
+        } ],
+        "name" : "Woman",
+        "type" : "album",
+        "uri" : "spotify:album:3Nkafp6ZTb1F0bTaAO0ePL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+        "id" : "1gR0gsQYfi6joyO1dlp76N",
+        "name" : "Justice",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 334224,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR9W11614931"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2CPnSfkS5EhJzKvAQgIyaz"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2CPnSfkS5EhJzKvAQgIyaz",
+      "id" : "2CPnSfkS5EhJzKvAQgIyaz",
+      "is_playable" : true,
+      "name" : "Fire",
+      "popularity" : 56,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3261c61b32c8fc448a836b2d99c414ffd0730b05?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:2CPnSfkS5EhJzKvAQgIyaz"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:08:15Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+          "id" : "1gR0gsQYfi6joyO1dlp76N",
+          "name" : "Justice",
+          "type" : "artist",
+          "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3Nkafp6ZTb1F0bTaAO0ePL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3Nkafp6ZTb1F0bTaAO0ePL",
+        "id" : "3Nkafp6ZTb1F0bTaAO0ePL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/f26752e6fe6c514219b05f77624ef4098deb8da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/0402aa1ec14c48d23610f3a2a36f32e0e6fca1fd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a07b4abf21de974b4c9557b4aeeeab1b39f8f9ac",
+          "width" : 64
+        } ],
+        "name" : "Woman",
+        "type" : "album",
+        "uri" : "spotify:album:3Nkafp6ZTb1F0bTaAO0ePL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+        "id" : "1gR0gsQYfi6joyO1dlp76N",
+        "name" : "Justice",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 297316,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR9W11614932"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/05ferNMQAYKrS1bZDPL80o"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/05ferNMQAYKrS1bZDPL80o",
+      "id" : "05ferNMQAYKrS1bZDPL80o",
+      "is_playable" : true,
+      "name" : "Stop",
+      "popularity" : 52,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4aeb42bea3fced1c51bd33c5959e3cc77eee6b04?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:05ferNMQAYKrS1bZDPL80o"
+    }
+  } ],
+  "limit" : 50,
+  "next" : "https://api.spotify.com/v1/me/tracks?offset=400&limit=50&market=from_token",
+  "offset" : 350,
+  "previous" : "https://api.spotify.com/v1/me/tracks?offset=300&limit=50&market=from_token",
+  "total" : 1092
+}

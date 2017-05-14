@@ -1,0 +1,3534 @@
+{
+  "href" : "https://api.spotify.com/v1/me/tracks?offset=150&limit=50&market=from_token",
+  "items" : [ {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xDG37OKZa8ZU00h2V4Ke3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xDG37OKZa8ZU00h2V4Ke3",
+        "id" : "7xDG37OKZa8ZU00h2V4Ke3",
+        "name" : "Dylan Myers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xDG37OKZa8ZU00h2V4Ke3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 124737,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604970"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/579i444H9Vrhsad1WhjHqo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/579i444H9Vrhsad1WhjHqo",
+      "id" : "579i444H9Vrhsad1WhjHqo",
+      "is_playable" : true,
+      "name" : "Misty Mountains",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4910a00320b5e3d086e32830e89941984768582f?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:579i444H9Vrhsad1WhjHqo"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xDG37OKZa8ZU00h2V4Ke3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xDG37OKZa8ZU00h2V4Ke3",
+        "id" : "7xDG37OKZa8ZU00h2V4Ke3",
+        "name" : "Dylan Myers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xDG37OKZa8ZU00h2V4Ke3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 238039,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604971"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1sDhQxBLNAucMDtrUfVwxJ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1sDhQxBLNAucMDtrUfVwxJ",
+      "id" : "1sDhQxBLNAucMDtrUfVwxJ",
+      "is_playable" : true,
+      "name" : "I See Fire",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/08c66c66b7cecd524b8622f2cb06848c6df00e25?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:1sDhQxBLNAucMDtrUfVwxJ"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 166833,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604972"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5JKoZO4ydpVwklFNEHMdtt"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5JKoZO4ydpVwklFNEHMdtt",
+      "id" : "5JKoZO4ydpVwklFNEHMdtt",
+      "is_playable" : true,
+      "name" : "The Trail We Blaze",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d55b57599a5007717392057b24bdee8da4ce70a6?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:5JKoZO4ydpVwklFNEHMdtt"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 176052,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604973"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3HeJWUku8FrCfrbsFnnD59"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3HeJWUku8FrCfrbsFnnD59",
+      "id" : "3HeJWUku8FrCfrbsFnnD59",
+      "is_playable" : true,
+      "name" : "For the Dancing and the Dreaming",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/170c0974f1f2007134476915bb1210ea03d82f89?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:3HeJWUku8FrCfrbsFnnD59"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 157714,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604974"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1h6HMVoLUb7gDq2SksnOHd"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1h6HMVoLUb7gDq2SksnOHd",
+      "id" : "1h6HMVoLUb7gDq2SksnOHd",
+      "is_playable" : true,
+      "name" : "Get Off My Back",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/41d91f992e629624eb784d1f3a65ab3af3880a90?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:1h6HMVoLUb7gDq2SksnOHd"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 194851,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604975"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4KJjfzUcc6mRKtdp268aeY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4KJjfzUcc6mRKtdp268aeY",
+      "id" : "4KJjfzUcc6mRKtdp268aeY",
+      "is_playable" : true,
+      "name" : "El Dorado",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0b7a64388cf8bc1ab0467f0c71bba41cd17ac56e?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:4KJjfzUcc6mRKtdp268aeY"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 235043,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604976"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6jnT7eSSqCUFsDjIdjoJsS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6jnT7eSSqCUFsDjIdjoJsS",
+      "id" : "6jnT7eSSqCUFsDjIdjoJsS",
+      "is_playable" : true,
+      "name" : "All Men Must Die",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/675f129e3ced273ca37b44cd511697762d0b74c9?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:6jnT7eSSqCUFsDjIdjoJsS"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xN4Oeb97dtMCqnF8feupL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xN4Oeb97dtMCqnF8feupL",
+        "id" : "6xN4Oeb97dtMCqnF8feupL",
+        "name" : "Jonathan Parecki",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xN4Oeb97dtMCqnF8feupL"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 158526,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604977"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3fzlLNny4oO5hPc6jqrWXA"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3fzlLNny4oO5hPc6jqrWXA",
+      "id" : "3fzlLNny4oO5hPc6jqrWXA",
+      "is_playable" : true,
+      "name" : "Mute City",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3851ce16a776c177c726bf270cf32b4a9e660ecc?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:3fzlLNny4oO5hPc6jqrWXA"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 167884,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604978"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3hLjum3gpmqGUxhZ9DglM9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3hLjum3gpmqGUxhZ9DglM9",
+      "id" : "3hLjum3gpmqGUxhZ9DglM9",
+      "is_playable" : true,
+      "name" : "Someday Out of the Blue",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1d048192507422b5557306d5c251ceaf56235bb6?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:3hLjum3gpmqGUxhZ9DglM9"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0cJfPyB4vPbO8qFtx0f3Ds"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0cJfPyB4vPbO8qFtx0f3Ds",
+        "id" : "0cJfPyB4vPbO8qFtx0f3Ds",
+        "name" : "SixteenInMono",
+        "type" : "artist",
+        "uri" : "spotify:artist:0cJfPyB4vPbO8qFtx0f3Ds"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 227022,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604979"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1N0PkBuBlMTK4GPevK1uSj"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1N0PkBuBlMTK4GPevK1uSj",
+      "id" : "1N0PkBuBlMTK4GPevK1uSj",
+      "is_playable" : true,
+      "name" : "What I'm Made of",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/53f9f5e78194b140ed8eb85a1ac030089071d755?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:1N0PkBuBlMTK4GPevK1uSj"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 82421,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604980"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5p7YvdwjS63ZoL3D3y8YN6"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5p7YvdwjS63ZoL3D3y8YN6",
+      "id" : "5p7YvdwjS63ZoL3D3y8YN6",
+      "is_playable" : true,
+      "name" : "The World",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/189ee918900936d6a444d0cbd42a78885b79439a?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:5p7YvdwjS63ZoL3D3y8YN6"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 229894,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604981"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6IxDv7DsM1CiH2koFYSLED"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6IxDv7DsM1CiH2koFYSLED",
+      "id" : "6IxDv7DsM1CiH2koFYSLED",
+      "is_playable" : true,
+      "name" : "The World",
+      "popularity" : 36,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7b63b1e34235565a228f15784bb4ce191ad8f93f?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:6IxDv7DsM1CiH2koFYSLED"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 149495,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604982"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/26mCYAveidKACv8SucHRG1"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/26mCYAveidKACv8SucHRG1",
+      "id" : "26mCYAveidKACv8SucHRG1",
+      "is_playable" : true,
+      "name" : "Here I Am",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e856ed165e5f1832eb5c7a6a36f87ce484c3c333?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:26mCYAveidKACv8SucHRG1"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 88560,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604983"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7tpXJLB3WNBrqLxCdimTE7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7tpXJLB3WNBrqLxCdimTE7",
+      "id" : "7tpXJLB3WNBrqLxCdimTE7",
+      "is_playable" : true,
+      "name" : "Bat Country in D Major (Bonus Track)",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d4386731f8169038a8a3c3bf46e54011b62af23b?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:7tpXJLB3WNBrqLxCdimTE7"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 57167,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604984"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/43wRbko6SuBd3IXVjPkMcu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/43wRbko6SuBd3IXVjPkMcu",
+      "id" : "43wRbko6SuBd3IXVjPkMcu",
+      "is_playable" : true,
+      "name" : "Frozen Heart (Bonus Track)",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/321aacbc500e29b11b2c6fae741db2ce28356053?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:43wRbko6SuBd3IXVjPkMcu"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 180918,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604985"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/68AlcDmKkcSkW1pL2irIMc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/68AlcDmKkcSkW1pL2irIMc",
+      "id" : "68AlcDmKkcSkW1pL2irIMc",
+      "is_playable" : true,
+      "name" : "Only Singing Bass (Bonus Track)",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e3f0c20209b233a8ae7775f4a97f1ccaee5ed973?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:68AlcDmKkcSkW1pL2irIMc"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6VkNuqb1g6daxT3W3brUYZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6VkNuqb1g6daxT3W3brUYZ",
+        "id" : "6VkNuqb1g6daxT3W3brUYZ",
+        "name" : "Jared Dines",
+        "type" : "artist",
+        "uri" : "spotify:artist:6VkNuqb1g6daxT3W3brUYZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 231627,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604986"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6up5i8Nge9YKD0PVMpJ1YU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6up5i8Nge9YKD0PVMpJ1YU",
+      "id" : "6up5i8Nge9YKD0PVMpJ1YU",
+      "is_playable" : true,
+      "name" : "Take Me to Church [Bonus Track]",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/17ada66bd6592258511d3a122a4326f05b99223c?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:6up5i8Nge9YKD0PVMpJ1YU"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:35Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5HbY0FMxSPTIoUZ43CSiBp"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5HbY0FMxSPTIoUZ43CSiBp",
+        "id" : "5HbY0FMxSPTIoUZ43CSiBp",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3242866954fe8172ea0a23ec2ca14ed2c54b0059",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/c4b2c680ebc859c99074edfcbcba2307c162fad4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3d365e6324d1d32574d1efa57e2bca8c05301d5e",
+          "width" : 64
+        } ],
+        "name" : "Songs That Will Be Compiled into a Better Album Sometime",
+        "type" : "album",
+        "uri" : "spotify:album:5HbY0FMxSPTIoUZ43CSiBp"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 123937,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604987"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3mhZ3k1w6shGiqLMJpPLww"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3mhZ3k1w6shGiqLMJpPLww",
+      "id" : "3mhZ3k1w6shGiqLMJpPLww",
+      "is_playable" : true,
+      "name" : "White Christmas (Bonus Track)",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/77fea24e4210064b078e7e69f026b688292ccdb4?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 18,
+      "type" : "track",
+      "uri" : "spotify:track:3mhZ3k1w6shGiqLMJpPLww"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6VkNuqb1g6daxT3W3brUYZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6VkNuqb1g6daxT3W3brUYZ",
+        "id" : "6VkNuqb1g6daxT3W3brUYZ",
+        "name" : "Jared Dines",
+        "type" : "artist",
+        "uri" : "spotify:artist:6VkNuqb1g6daxT3W3brUYZ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 185687,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1603254"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7lSJhCXRO9FwQSGya6BQ2q"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7lSJhCXRO9FwQSGya6BQ2q",
+      "id" : "7lSJhCXRO9FwQSGya6BQ2q",
+      "is_playable" : true,
+      "name" : "Never Gonna Give You up",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7b1650f8129967d4eb855c1911348dc135c4aae3?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:7lSJhCXRO9FwQSGya6BQ2q"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 167857,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1603255"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1fxd1LWeA8NxnaevF6x5iB"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1fxd1LWeA8NxnaevF6x5iB",
+      "id" : "1fxd1LWeA8NxnaevF6x5iB",
+      "is_playable" : true,
+      "name" : "Honey, I'm Good",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/085df9bbbfa54e02f2ab8df923dc4527129465c9?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:1fxd1LWeA8NxnaevF6x5iB"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1MxTalXf6OCd1HXEVuncPs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1MxTalXf6OCd1HXEVuncPs",
+        "id" : "1MxTalXf6OCd1HXEVuncPs",
+        "name" : "Travis Carte",
+        "type" : "artist",
+        "uri" : "spotify:artist:1MxTalXf6OCd1HXEVuncPs"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 165688,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "QM4DW1603256"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0brtrGgd9IxZYj9oxfZIKi"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0brtrGgd9IxZYj9oxfZIKi",
+      "id" : "0brtrGgd9IxZYj9oxfZIKi",
+      "is_playable" : true,
+      "name" : "I Don't Fuck with You",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6c7884543e815c8eaf2409b20886c39d51f26208?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:0brtrGgd9IxZYj9oxfZIKi"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 201768,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1603257"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1PVhanuU4LI6LR3bXYKurw"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1PVhanuU4LI6LR3bXYKurw",
+      "id" : "1PVhanuU4LI6LR3bXYKurw",
+      "is_playable" : true,
+      "name" : "Irresistible",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/00c8e2998b5e7d9d95a81abc4422d0aa05d64a94?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:1PVhanuU4LI6LR3bXYKurw"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7BmPVzemtO9g4azCeM37Sk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7BmPVzemtO9g4azCeM37Sk",
+        "id" : "7BmPVzemtO9g4azCeM37Sk",
+        "name" : "ShueTube",
+        "type" : "artist",
+        "uri" : "spotify:artist:7BmPVzemtO9g4azCeM37Sk"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 235593,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1603258"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6Jhgysh688khCvTy6nPg2m"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6Jhgysh688khCvTy6nPg2m",
+      "id" : "6Jhgysh688khCvTy6nPg2m",
+      "is_playable" : true,
+      "name" : "See You Again",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/879108c3ec93de74d03dff094206b7649e26b804?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:6Jhgysh688khCvTy6nPg2m"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7yuxjHyGsjSATU2KYK7bSU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7yuxjHyGsjSATU2KYK7bSU",
+        "id" : "7yuxjHyGsjSATU2KYK7bSU",
+        "name" : "Austin Dickey",
+        "type" : "artist",
+        "uri" : "spotify:artist:7yuxjHyGsjSATU2KYK7bSU"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 221793,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1603259"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5AvR7VAqZq8YTVSGStV9U3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5AvR7VAqZq8YTVSGStV9U3",
+      "id" : "5AvR7VAqZq8YTVSGStV9U3",
+      "is_playable" : true,
+      "name" : "Evacuate the Dance Floor",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3ab3cfeec0cb075a050a8786c4347a6b2606c61f?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:5AvR7VAqZq8YTVSGStV9U3"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1MxTalXf6OCd1HXEVuncPs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1MxTalXf6OCd1HXEVuncPs",
+        "id" : "1MxTalXf6OCd1HXEVuncPs",
+        "name" : "Travis Carte",
+        "type" : "artist",
+        "uri" : "spotify:artist:1MxTalXf6OCd1HXEVuncPs"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 181250,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1603260"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4h0NmR0qgbhuyjDl87HAha"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4h0NmR0qgbhuyjDl87HAha",
+      "id" : "4h0NmR0qgbhuyjDl87HAha",
+      "is_playable" : true,
+      "name" : "Breakfast at Tiffany's",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1a6dcd031e1b0226b0d7ee588ca41af8ef4f70c7?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:4h0NmR0qgbhuyjDl87HAha"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 191367,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1603261"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1sLZ0WsU8L6c4wXLMwO3tE"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1sLZ0WsU8L6c4wXLMwO3tE",
+      "id" : "1sLZ0WsU8L6c4wXLMwO3tE",
+      "is_playable" : true,
+      "name" : "Shut up and Dance",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c42acc627b64874ca5b899f708c68586953f0aa9?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:1sLZ0WsU8L6c4wXLMwO3tE"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1MxTalXf6OCd1HXEVuncPs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1MxTalXf6OCd1HXEVuncPs",
+        "id" : "1MxTalXf6OCd1HXEVuncPs",
+        "name" : "Travis Carte",
+        "type" : "artist",
+        "uri" : "spotify:artist:1MxTalXf6OCd1HXEVuncPs"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 159535,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1603262"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1fFOEykOGSG1VYwUpOC1im"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1fFOEykOGSG1VYwUpOC1im",
+      "id" : "1fFOEykOGSG1VYwUpOC1im",
+      "is_playable" : true,
+      "name" : "Watch Me",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/16099ddafb5d78971715b72eb4b421905b72367a?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:1fFOEykOGSG1VYwUpOC1im"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3JUAoBcLeedTUD2SEqjh0T"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3JUAoBcLeedTUD2SEqjh0T",
+        "id" : "3JUAoBcLeedTUD2SEqjh0T",
+        "name" : "BradyScott",
+        "type" : "artist",
+        "uri" : "spotify:artist:3JUAoBcLeedTUD2SEqjh0T"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 231130,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1603263"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5znMaZiXsJx2xOepaN3WYT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5znMaZiXsJx2xOepaN3WYT",
+      "id" : "5znMaZiXsJx2xOepaN3WYT",
+      "is_playable" : true,
+      "name" : "Uptown Funk",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/fabccd99ce0df4f29485ffffebd4ca1bf53cf66e?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:5znMaZiXsJx2xOepaN3WYT"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 183230,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1603264"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1wcaqr0RRFTTirjSdESrXz"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1wcaqr0RRFTTirjSdESrXz",
+      "id" : "1wcaqr0RRFTTirjSdESrXz",
+      "is_playable" : true,
+      "name" : "Domino",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/cc89ffdb0d5ba3965670c28fe5403ae955e87715?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:1wcaqr0RRFTTirjSdESrXz"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 268248,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1603265"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/16M45TFW6hjWod32vIgeoB"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/16M45TFW6hjWod32vIgeoB",
+      "id" : "16M45TFW6hjWod32vIgeoB",
+      "is_playable" : true,
+      "name" : "Thinking Out Loud",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d94770d062ef146a40fbab0b9e8e5907b1fbea97?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:16M45TFW6hjWod32vIgeoB"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4IF11U0nzFhAaLDGZH3vSx",
+        "id" : "4IF11U0nzFhAaLDGZH3vSx",
+        "name" : "RichaadEB",
+        "type" : "artist",
+        "uri" : "spotify:artist:4IF11U0nzFhAaLDGZH3vSx"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 273000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1603266"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/49Z68gbEY3C362FC49XgJa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/49Z68gbEY3C362FC49XgJa",
+      "id" : "49Z68gbEY3C362FC49XgJa",
+      "is_playable" : true,
+      "name" : "True Survivor",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/25806f7243e82532954fbfb69fa6c9805b12ecdc?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:49Z68gbEY3C362FC49XgJa"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 214868,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "QM4DW1603267"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3Ald5NatmHiPhBzNRmypZs"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3Ald5NatmHiPhBzNRmypZs",
+      "id" : "3Ald5NatmHiPhBzNRmypZs",
+      "is_playable" : true,
+      "name" : "Cool for the Summer",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7998e771f2be0e907953df7ccecf528411beb711?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:3Ald5NatmHiPhBzNRmypZs"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 153705,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1603268"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1q3P3L9DnTcr2EE0xbzOU8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1q3P3L9DnTcr2EE0xbzOU8",
+      "id" : "1q3P3L9DnTcr2EE0xbzOU8",
+      "is_playable" : true,
+      "name" : "Game of Thrones & Skyrim Mashup",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c0a0862e8c6135ed48774b98be3c4bb022b5c78e?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:1q3P3L9DnTcr2EE0xbzOU8"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 158265,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1603269"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5iOaY7wjBN1nVOERd1ywBk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5iOaY7wjBN1nVOERd1ywBk",
+      "id" : "5iOaY7wjBN1nVOERd1ywBk",
+      "is_playable" : true,
+      "name" : "Like Michael (Classic & I Want You Back)",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7b1b352328362a03e57042f09417d88714004393?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:5iOaY7wjBN1nVOERd1ywBk"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1MxTalXf6OCd1HXEVuncPs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1MxTalXf6OCd1HXEVuncPs",
+        "id" : "1MxTalXf6OCd1HXEVuncPs",
+        "name" : "Travis Carte",
+        "type" : "artist",
+        "uri" : "spotify:artist:1MxTalXf6OCd1HXEVuncPs"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 201600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1603270"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4Izwd56ioUfWebtpzSj4tW"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4Izwd56ioUfWebtpzSj4tW",
+      "id" : "4Izwd56ioUfWebtpzSj4tW",
+      "is_playable" : true,
+      "name" : "Worth It",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a8667b8557220b58fbe33b9e5d2150c395aaf5d4?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:4Izwd56ioUfWebtpzSj4tW"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:33Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5VXuxyKNxuXO9TSMVYYf4F"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5VXuxyKNxuXO9TSMVYYf4F",
+        "id" : "5VXuxyKNxuXO9TSMVYYf4F",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8dc3b5b90122dbe1a93faf13bc537f055c03f23d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/eea50c27e3bd57ed3a132a00a520800a86940851",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/634484d795a6fe3e56056de4b9e95197a16f2a0f",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 2",
+        "type" : "album",
+        "uri" : "spotify:album:5VXuxyKNxuXO9TSMVYYf4F"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 124843,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "QM4DW1603271"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0LoblL1AHiS7IirULPlOU0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0LoblL1AHiS7IirULPlOU0",
+      "id" : "0LoblL1AHiS7IirULPlOU0",
+      "is_playable" : true,
+      "name" : "Rudolph the Red-Nosed Reindeer (Bonus Track)",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/61fb8684cf97b2d6460e0b1b9bcfe3aed01a3d7a?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 18,
+      "type" : "track",
+      "uri" : "spotify:track:0LoblL1AHiS7IirULPlOU0"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:31Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4gYIB0ZWavuq78PwLV1GSK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4gYIB0ZWavuq78PwLV1GSK",
+        "id" : "4gYIB0ZWavuq78PwLV1GSK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2362463eaec273e9ca798496c256a4b672945de5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/18b93c5eb0d4084f197ce4c303efa601577186f3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a948449841a6f3672a80d311d427de916ff7f011",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 3",
+        "type" : "album",
+        "uri" : "spotify:album:4gYIB0ZWavuq78PwLV1GSK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 182880,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604733"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7umLsVVHhQiDN2KtDjH7cs"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7umLsVVHhQiDN2KtDjH7cs",
+      "id" : "7umLsVVHhQiDN2KtDjH7cs",
+      "is_playable" : true,
+      "name" : "Bad Romance",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9938135d41c416f58f6c6ec3d14528b95d9ef8ca?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:7umLsVVHhQiDN2KtDjH7cs"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:31Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4gYIB0ZWavuq78PwLV1GSK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4gYIB0ZWavuq78PwLV1GSK",
+        "id" : "4gYIB0ZWavuq78PwLV1GSK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2362463eaec273e9ca798496c256a4b672945de5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/18b93c5eb0d4084f197ce4c303efa601577186f3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a948449841a6f3672a80d311d427de916ff7f011",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 3",
+        "type" : "album",
+        "uri" : "spotify:album:4gYIB0ZWavuq78PwLV1GSK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6jko6L4TyyldYVEMwmTfqU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6jko6L4TyyldYVEMwmTfqU",
+        "id" : "6jko6L4TyyldYVEMwmTfqU",
+        "name" : "Savannah Stuckmayer",
+        "type" : "artist",
+        "uri" : "spotify:artist:6jko6L4TyyldYVEMwmTfqU"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 134887,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604734"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3GC7cb2Hg4jWAr3JTfIbiJ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3GC7cb2Hg4jWAr3JTfIbiJ",
+      "id" : "3GC7cb2Hg4jWAr3JTfIbiJ",
+      "is_playable" : true,
+      "name" : "Hit Me with Your Best Shot (feat. Savannah Stuckmayer)",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/181e1525b874b9aa61307b31a32c7baa338e9063?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:3GC7cb2Hg4jWAr3JTfIbiJ"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:31Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4gYIB0ZWavuq78PwLV1GSK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4gYIB0ZWavuq78PwLV1GSK",
+        "id" : "4gYIB0ZWavuq78PwLV1GSK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2362463eaec273e9ca798496c256a4b672945de5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/18b93c5eb0d4084f197ce4c303efa601577186f3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a948449841a6f3672a80d311d427de916ff7f011",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 3",
+        "type" : "album",
+        "uri" : "spotify:album:4gYIB0ZWavuq78PwLV1GSK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5RKpx56h6nomR7D9ncsC2j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5RKpx56h6nomR7D9ncsC2j",
+        "id" : "5RKpx56h6nomR7D9ncsC2j",
+        "name" : "Ahren Gray",
+        "type" : "artist",
+        "uri" : "spotify:artist:5RKpx56h6nomR7D9ncsC2j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 236280,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "QM4DW1604735"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4mhErb3VJwt0xSAzjnVHNR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4mhErb3VJwt0xSAzjnVHNR",
+      "id" : "4mhErb3VJwt0xSAzjnVHNR",
+      "is_playable" : true,
+      "name" : "California Gurls (feat. Ahren Gray)",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a52c78cab2c4a6353d2e1efb0c7e954459b974f6?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:4mhErb3VJwt0xSAzjnVHNR"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:31Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4gYIB0ZWavuq78PwLV1GSK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4gYIB0ZWavuq78PwLV1GSK",
+        "id" : "4gYIB0ZWavuq78PwLV1GSK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2362463eaec273e9ca798496c256a4b672945de5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/18b93c5eb0d4084f197ce4c303efa601577186f3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a948449841a6f3672a80d311d427de916ff7f011",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 3",
+        "type" : "album",
+        "uri" : "spotify:album:4gYIB0ZWavuq78PwLV1GSK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 214556,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604736"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7luJVsQT6RTJy78IozRy0i"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7luJVsQT6RTJy78IozRy0i",
+      "id" : "7luJVsQT6RTJy78IozRy0i",
+      "is_playable" : true,
+      "name" : "Hello",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9a73d425626e8dfe0627346fde8b7f2553919ade?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:7luJVsQT6RTJy78IozRy0i"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:31Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4gYIB0ZWavuq78PwLV1GSK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4gYIB0ZWavuq78PwLV1GSK",
+        "id" : "4gYIB0ZWavuq78PwLV1GSK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2362463eaec273e9ca798496c256a4b672945de5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/18b93c5eb0d4084f197ce4c303efa601577186f3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a948449841a6f3672a80d311d427de916ff7f011",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 3",
+        "type" : "album",
+        "uri" : "spotify:album:4gYIB0ZWavuq78PwLV1GSK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HBYrbp1FVSeyMFSXCQ6yO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HBYrbp1FVSeyMFSXCQ6yO",
+        "id" : "1HBYrbp1FVSeyMFSXCQ6yO",
+        "name" : "Familyjules7x",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HBYrbp1FVSeyMFSXCQ6yO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4IF11U0nzFhAaLDGZH3vSx",
+        "id" : "4IF11U0nzFhAaLDGZH3vSx",
+        "name" : "RichaadEB",
+        "type" : "artist",
+        "uri" : "spotify:artist:4IF11U0nzFhAaLDGZH3vSx"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 173314,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604737"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0Pfe1j8vGBjIWcvignqgAM"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0Pfe1j8vGBjIWcvignqgAM",
+      "id" : "0Pfe1j8vGBjIWcvignqgAM",
+      "is_playable" : true,
+      "name" : "Danger Zone (feat. FamilyJules7x & Richaadeb)",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4c8a7565ccbc12b981d851604a79c660ab7f9ff2?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:0Pfe1j8vGBjIWcvignqgAM"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:31Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4gYIB0ZWavuq78PwLV1GSK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4gYIB0ZWavuq78PwLV1GSK",
+        "id" : "4gYIB0ZWavuq78PwLV1GSK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2362463eaec273e9ca798496c256a4b672945de5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/18b93c5eb0d4084f197ce4c303efa601577186f3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a948449841a6f3672a80d311d427de916ff7f011",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 3",
+        "type" : "album",
+        "uri" : "spotify:album:4gYIB0ZWavuq78PwLV1GSK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1MxTalXf6OCd1HXEVuncPs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1MxTalXf6OCd1HXEVuncPs",
+        "id" : "1MxTalXf6OCd1HXEVuncPs",
+        "name" : "Travis Carte",
+        "type" : "artist",
+        "uri" : "spotify:artist:1MxTalXf6OCd1HXEVuncPs"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 180480,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604738"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2T2mVD9S09toBmMr9Gdy4H"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2T2mVD9S09toBmMr9Gdy4H",
+      "id" : "2T2mVD9S09toBmMr9Gdy4H",
+      "is_playable" : true,
+      "name" : "1985 (feat. Travis Carte)",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8862628f97856fbdec434ba6ffd26b0bf269ba2f?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:2T2mVD9S09toBmMr9Gdy4H"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:31Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4gYIB0ZWavuq78PwLV1GSK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4gYIB0ZWavuq78PwLV1GSK",
+        "id" : "4gYIB0ZWavuq78PwLV1GSK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2362463eaec273e9ca798496c256a4b672945de5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/18b93c5eb0d4084f197ce4c303efa601577186f3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a948449841a6f3672a80d311d427de916ff7f011",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 3",
+        "type" : "album",
+        "uri" : "spotify:album:4gYIB0ZWavuq78PwLV1GSK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 190522,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604739"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1KCcd8XcCb5ikEgmwnFJjs"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1KCcd8XcCb5ikEgmwnFJjs",
+      "id" : "1KCcd8XcCb5ikEgmwnFJjs",
+      "is_playable" : true,
+      "name" : "Somebody That I Used to Know",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/806df1142ac578bb0c3837e90e2e3dffe6a78fd2?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:1KCcd8XcCb5ikEgmwnFJjs"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:31Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4gYIB0ZWavuq78PwLV1GSK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4gYIB0ZWavuq78PwLV1GSK",
+        "id" : "4gYIB0ZWavuq78PwLV1GSK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2362463eaec273e9ca798496c256a4b672945de5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/18b93c5eb0d4084f197ce4c303efa601577186f3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a948449841a6f3672a80d311d427de916ff7f011",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 3",
+        "type" : "album",
+        "uri" : "spotify:album:4gYIB0ZWavuq78PwLV1GSK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6x1zjtsXxMDhtoQUwsTr3p"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6x1zjtsXxMDhtoQUwsTr3p",
+        "id" : "6x1zjtsXxMDhtoQUwsTr3p",
+        "name" : "K Enagonio",
+        "type" : "artist",
+        "uri" : "spotify:artist:6x1zjtsXxMDhtoQUwsTr3p"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 189264,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604740"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3HqW3MOB6Y5AJZR94FSiqy"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3HqW3MOB6Y5AJZR94FSiqy",
+      "id" : "3HqW3MOB6Y5AJZR94FSiqy",
+      "is_playable" : true,
+      "name" : "Stressed Out (feat. K Enagonio)",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f1fe2bbfedf631d4b88ed14a0a2dd5e6938ba09b?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:3HqW3MOB6Y5AJZR94FSiqy"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:31Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4gYIB0ZWavuq78PwLV1GSK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4gYIB0ZWavuq78PwLV1GSK",
+        "id" : "4gYIB0ZWavuq78PwLV1GSK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2362463eaec273e9ca798496c256a4b672945de5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/18b93c5eb0d4084f197ce4c303efa601577186f3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a948449841a6f3672a80d311d427de916ff7f011",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 3",
+        "type" : "album",
+        "uri" : "spotify:album:4gYIB0ZWavuq78PwLV1GSK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HBYrbp1FVSeyMFSXCQ6yO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HBYrbp1FVSeyMFSXCQ6yO",
+        "id" : "1HBYrbp1FVSeyMFSXCQ6yO",
+        "name" : "Familyjules7x",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HBYrbp1FVSeyMFSXCQ6yO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4IF11U0nzFhAaLDGZH3vSx",
+        "id" : "4IF11U0nzFhAaLDGZH3vSx",
+        "name" : "RichaadEB",
+        "type" : "artist",
+        "uri" : "spotify:artist:4IF11U0nzFhAaLDGZH3vSx"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 213556,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604741"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/36Sk4dFj0ClA3NnOs85H9T"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/36Sk4dFj0ClA3NnOs85H9T",
+      "id" : "36Sk4dFj0ClA3NnOs85H9T",
+      "is_playable" : true,
+      "name" : "Go Go Power Rangers! (feat. FamilyJules7x & Richaadeb)",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/aa755fdd49f67c87b51c73e2b053b9442d5f070f?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:36Sk4dFj0ClA3NnOs85H9T"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:31Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4gYIB0ZWavuq78PwLV1GSK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4gYIB0ZWavuq78PwLV1GSK",
+        "id" : "4gYIB0ZWavuq78PwLV1GSK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2362463eaec273e9ca798496c256a4b672945de5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/18b93c5eb0d4084f197ce4c303efa601577186f3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a948449841a6f3672a80d311d427de916ff7f011",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 3",
+        "type" : "album",
+        "uri" : "spotify:album:4gYIB0ZWavuq78PwLV1GSK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6jko6L4TyyldYVEMwmTfqU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6jko6L4TyyldYVEMwmTfqU",
+        "id" : "6jko6L4TyyldYVEMwmTfqU",
+        "name" : "Savannah Stuckmayer",
+        "type" : "artist",
+        "uri" : "spotify:artist:6jko6L4TyyldYVEMwmTfqU"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 147560,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604742"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1yEU6cCXyZui7fsWlL04sP"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1yEU6cCXyZui7fsWlL04sP",
+      "id" : "1yEU6cCXyZui7fsWlL04sP",
+      "is_playable" : true,
+      "name" : "You Make My Dreams Come True (feat. Savannah Stuckmayer)",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f3e4e5e5856c3947c611646a685cc57540504c2a?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:1yEU6cCXyZui7fsWlL04sP"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:31Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4gYIB0ZWavuq78PwLV1GSK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4gYIB0ZWavuq78PwLV1GSK",
+        "id" : "4gYIB0ZWavuq78PwLV1GSK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2362463eaec273e9ca798496c256a4b672945de5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/18b93c5eb0d4084f197ce4c303efa601577186f3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a948449841a6f3672a80d311d427de916ff7f011",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 3",
+        "type" : "album",
+        "uri" : "spotify:album:4gYIB0ZWavuq78PwLV1GSK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 178695,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604743"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/510Fh5OTP28BKXGq1su5Ge"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/510Fh5OTP28BKXGq1su5Ge",
+      "id" : "510Fh5OTP28BKXGq1su5Ge",
+      "is_playable" : true,
+      "name" : "Drag Me Down",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/541906e644ef990fd4b292f57207d4073db81cc6?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:510Fh5OTP28BKXGq1su5Ge"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:31Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4gYIB0ZWavuq78PwLV1GSK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4gYIB0ZWavuq78PwLV1GSK",
+        "id" : "4gYIB0ZWavuq78PwLV1GSK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2362463eaec273e9ca798496c256a4b672945de5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/18b93c5eb0d4084f197ce4c303efa601577186f3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a948449841a6f3672a80d311d427de916ff7f011",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 3",
+        "type" : "album",
+        "uri" : "spotify:album:4gYIB0ZWavuq78PwLV1GSK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1MxTalXf6OCd1HXEVuncPs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1MxTalXf6OCd1HXEVuncPs",
+        "id" : "1MxTalXf6OCd1HXEVuncPs",
+        "name" : "Travis Carte",
+        "type" : "artist",
+        "uri" : "spotify:artist:1MxTalXf6OCd1HXEVuncPs"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 156968,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604744"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1hakfJvtPRBMc7ne1fmA03"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1hakfJvtPRBMc7ne1fmA03",
+      "id" : "1hakfJvtPRBMc7ne1fmA03",
+      "is_playable" : true,
+      "name" : "What Do You Mean (feat. Travis Carte)",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7f18402ea6b827a70fdadafcf44c477a10181440?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:1hakfJvtPRBMc7ne1fmA03"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:31Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4gYIB0ZWavuq78PwLV1GSK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4gYIB0ZWavuq78PwLV1GSK",
+        "id" : "4gYIB0ZWavuq78PwLV1GSK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2362463eaec273e9ca798496c256a4b672945de5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/18b93c5eb0d4084f197ce4c303efa601577186f3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a948449841a6f3672a80d311d427de916ff7f011",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 3",
+        "type" : "album",
+        "uri" : "spotify:album:4gYIB0ZWavuq78PwLV1GSK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 164531,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604745"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/72j2Z0qPZmVchOpyDzzxy0"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/72j2Z0qPZmVchOpyDzzxy0",
+      "id" : "72j2Z0qPZmVchOpyDzzxy0",
+      "is_playable" : true,
+      "name" : "Remedy",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a09dea5ab2de4854db3170f7205adfc7965cb7f2?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:72j2Z0qPZmVchOpyDzzxy0"
+    }
+  }, {
+    "added_at" : "2016-12-04T17:22:31Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+          "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+          "name" : "Jonathan Young",
+          "type" : "artist",
+          "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4gYIB0ZWavuq78PwLV1GSK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4gYIB0ZWavuq78PwLV1GSK",
+        "id" : "4gYIB0ZWavuq78PwLV1GSK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2362463eaec273e9ca798496c256a4b672945de5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/18b93c5eb0d4084f197ce4c303efa601577186f3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a948449841a6f3672a80d311d427de916ff7f011",
+          "width" : 64
+        } ],
+        "name" : "I Didn't Write Any of This, Vol. 3",
+        "type" : "album",
+        "uri" : "spotify:album:4gYIB0ZWavuq78PwLV1GSK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2IeMt1qx6ZVt1HFjdfE5tl",
+        "id" : "2IeMt1qx6ZVt1HFjdfE5tl",
+        "name" : "Jonathan Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2IeMt1qx6ZVt1HFjdfE5tl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1MxTalXf6OCd1HXEVuncPs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1MxTalXf6OCd1HXEVuncPs",
+        "id" : "1MxTalXf6OCd1HXEVuncPs",
+        "name" : "Travis Carte",
+        "type" : "artist",
+        "uri" : "spotify:artist:1MxTalXf6OCd1HXEVuncPs"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 215298,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4DW1604746"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2kMpdlindhc9tsgsZFPJIB"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2kMpdlindhc9tsgsZFPJIB",
+      "id" : "2kMpdlindhc9tsgsZFPJIB",
+      "is_playable" : true,
+      "name" : "Out of the Woods (feat. Travis Carte)",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ad112a0c9cdc90556629224652233606f1cebb05?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:2kMpdlindhc9tsgsZFPJIB"
+    }
+  } ],
+  "limit" : 50,
+  "next" : "https://api.spotify.com/v1/me/tracks?offset=200&limit=50&market=from_token",
+  "offset" : 150,
+  "previous" : "https://api.spotify.com/v1/me/tracks?offset=100&limit=50&market=from_token",
+  "total" : 1092
+}

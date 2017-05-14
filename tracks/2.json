@@ -1,0 +1,4371 @@
+{
+  "href" : "https://api.spotify.com/v1/me/tracks?offset=50&limit=50&market=from_token",
+  "items" : [ {
+    "added_at" : "2016-12-17T15:16:52Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+          "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+          "name" : "The Hoosiers",
+          "type" : "artist",
+          "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1xMuoFVsjlYibAHYVNVKpU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1xMuoFVsjlYibAHYVNVKpU",
+        "id" : "1xMuoFVsjlYibAHYVNVKpU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/96a0d83cf14805c257e2b8e052e6339a37d074a3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/33db8c41510bf2dd6e9dd0f0d83ebdfc8e47027f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/838ffe13d49591013f12962faed660dbd5d820ca",
+          "width" : 64
+        } ],
+        "name" : "The Illusion Of Safety",
+        "type" : "album",
+        "uri" : "spotify:album:1xMuoFVsjlYibAHYVNVKpU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+        "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+        "name" : "The Hoosiers",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 230373,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBARL1000745"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3xScECldVmMzdpnclehrQU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3xScECldVmMzdpnclehrQU",
+      "id" : "3xScECldVmMzdpnclehrQU",
+      "is_playable" : true,
+      "name" : "Unlikely Hero",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ddc37ee4f86d58c14012ca5d7af44b40300fcb55?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:3xScECldVmMzdpnclehrQU"
+    }
+  }, {
+    "added_at" : "2016-12-17T15:16:52Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+          "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+          "name" : "The Hoosiers",
+          "type" : "artist",
+          "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1xMuoFVsjlYibAHYVNVKpU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1xMuoFVsjlYibAHYVNVKpU",
+        "id" : "1xMuoFVsjlYibAHYVNVKpU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/96a0d83cf14805c257e2b8e052e6339a37d074a3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/33db8c41510bf2dd6e9dd0f0d83ebdfc8e47027f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/838ffe13d49591013f12962faed660dbd5d820ca",
+          "width" : 64
+        } ],
+        "name" : "The Illusion Of Safety",
+        "type" : "album",
+        "uri" : "spotify:album:1xMuoFVsjlYibAHYVNVKpU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+        "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+        "name" : "The Hoosiers",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 219866,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBARL1000746"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3VJaGaylfQDOJImaux0N0Y"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3VJaGaylfQDOJImaux0N0Y",
+      "id" : "3VJaGaylfQDOJImaux0N0Y",
+      "is_playable" : true,
+      "name" : "Lovers In My Head",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/875f9c680660293bedb8ad655d26389b1fed6e80?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:3VJaGaylfQDOJImaux0N0Y"
+    }
+  }, {
+    "added_at" : "2016-12-17T15:16:52Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+          "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+          "name" : "The Hoosiers",
+          "type" : "artist",
+          "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1xMuoFVsjlYibAHYVNVKpU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1xMuoFVsjlYibAHYVNVKpU",
+        "id" : "1xMuoFVsjlYibAHYVNVKpU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/96a0d83cf14805c257e2b8e052e6339a37d074a3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/33db8c41510bf2dd6e9dd0f0d83ebdfc8e47027f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/838ffe13d49591013f12962faed660dbd5d820ca",
+          "width" : 64
+        } ],
+        "name" : "The Illusion Of Safety",
+        "type" : "album",
+        "uri" : "spotify:album:1xMuoFVsjlYibAHYVNVKpU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+        "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+        "name" : "The Hoosiers",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 243280,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBARL1000747"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0rV1oTbzPK8qXNGYw9MPcE"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0rV1oTbzPK8qXNGYw9MPcE",
+      "id" : "0rV1oTbzPK8qXNGYw9MPcE",
+      "is_playable" : true,
+      "name" : "Live By The Ocean",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d28d17193dd709fee9cf84ad5c75efa75d42d8d6?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:0rV1oTbzPK8qXNGYw9MPcE"
+    }
+  }, {
+    "added_at" : "2016-12-17T15:16:52Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+          "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+          "name" : "The Hoosiers",
+          "type" : "artist",
+          "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1xMuoFVsjlYibAHYVNVKpU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1xMuoFVsjlYibAHYVNVKpU",
+        "id" : "1xMuoFVsjlYibAHYVNVKpU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/96a0d83cf14805c257e2b8e052e6339a37d074a3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/33db8c41510bf2dd6e9dd0f0d83ebdfc8e47027f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/838ffe13d49591013f12962faed660dbd5d820ca",
+          "width" : 64
+        } ],
+        "name" : "The Illusion Of Safety",
+        "type" : "album",
+        "uri" : "spotify:album:1xMuoFVsjlYibAHYVNVKpU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+        "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+        "name" : "The Hoosiers",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 193560,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBARL1000748"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5FF6VupzWXJxh9sz0trrjG"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5FF6VupzWXJxh9sz0trrjG",
+      "id" : "5FF6VupzWXJxh9sz0trrjG",
+      "is_playable" : true,
+      "name" : "Devil's In The Detail",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ebcba14ae012a05c2d4597cdab8a826ea9033253?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:5FF6VupzWXJxh9sz0trrjG"
+    }
+  }, {
+    "added_at" : "2016-12-17T15:16:52Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+          "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+          "name" : "The Hoosiers",
+          "type" : "artist",
+          "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1xMuoFVsjlYibAHYVNVKpU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1xMuoFVsjlYibAHYVNVKpU",
+        "id" : "1xMuoFVsjlYibAHYVNVKpU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/96a0d83cf14805c257e2b8e052e6339a37d074a3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/33db8c41510bf2dd6e9dd0f0d83ebdfc8e47027f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/838ffe13d49591013f12962faed660dbd5d820ca",
+          "width" : 64
+        } ],
+        "name" : "The Illusion Of Safety",
+        "type" : "album",
+        "uri" : "spotify:album:1xMuoFVsjlYibAHYVNVKpU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+        "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+        "name" : "The Hoosiers",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 286720,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBARL1000749"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1WMTPYck77nzCwpa3FZXBV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1WMTPYck77nzCwpa3FZXBV",
+      "id" : "1WMTPYck77nzCwpa3FZXBV",
+      "is_playable" : true,
+      "name" : "Glorious",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a0107923d366d8024a4370f4ab4d52f93719a5ef?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:1WMTPYck77nzCwpa3FZXBV"
+    }
+  }, {
+    "added_at" : "2016-12-17T15:16:52Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+          "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+          "name" : "The Hoosiers",
+          "type" : "artist",
+          "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1xMuoFVsjlYibAHYVNVKpU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1xMuoFVsjlYibAHYVNVKpU",
+        "id" : "1xMuoFVsjlYibAHYVNVKpU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/96a0d83cf14805c257e2b8e052e6339a37d074a3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/33db8c41510bf2dd6e9dd0f0d83ebdfc8e47027f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/838ffe13d49591013f12962faed660dbd5d820ca",
+          "width" : 64
+        } ],
+        "name" : "The Illusion Of Safety",
+        "type" : "album",
+        "uri" : "spotify:album:1xMuoFVsjlYibAHYVNVKpU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+        "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+        "name" : "The Hoosiers",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 261920,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBARL1000750"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5K8jPKBdFC5CYJKsv5GaWo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5K8jPKBdFC5CYJKsv5GaWo",
+      "id" : "5K8jPKBdFC5CYJKsv5GaWo",
+      "is_playable" : true,
+      "name" : "Made To Measure",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3690723bdcdf5a960e64dd9e505138bc00e6fd79?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:5K8jPKBdFC5CYJKsv5GaWo"
+    }
+  }, {
+    "added_at" : "2016-12-17T15:16:52Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+          "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+          "name" : "The Hoosiers",
+          "type" : "artist",
+          "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1xMuoFVsjlYibAHYVNVKpU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1xMuoFVsjlYibAHYVNVKpU",
+        "id" : "1xMuoFVsjlYibAHYVNVKpU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/96a0d83cf14805c257e2b8e052e6339a37d074a3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/33db8c41510bf2dd6e9dd0f0d83ebdfc8e47027f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/838ffe13d49591013f12962faed660dbd5d820ca",
+          "width" : 64
+        } ],
+        "name" : "The Illusion Of Safety",
+        "type" : "album",
+        "uri" : "spotify:album:1xMuoFVsjlYibAHYVNVKpU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+        "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+        "name" : "The Hoosiers",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 179680,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBARL1000751"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/49zo47BRRzDO7EfYRaBPLL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/49zo47BRRzDO7EfYRaBPLL",
+      "id" : "49zo47BRRzDO7EfYRaBPLL",
+      "is_playable" : true,
+      "name" : "Giddy Up",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a2f43069f64b8336d2d6776dd1bfabf036b2250b?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:49zo47BRRzDO7EfYRaBPLL"
+    }
+  }, {
+    "added_at" : "2016-12-17T15:16:52Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+          "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+          "name" : "The Hoosiers",
+          "type" : "artist",
+          "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1xMuoFVsjlYibAHYVNVKpU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1xMuoFVsjlYibAHYVNVKpU",
+        "id" : "1xMuoFVsjlYibAHYVNVKpU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/96a0d83cf14805c257e2b8e052e6339a37d074a3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/33db8c41510bf2dd6e9dd0f0d83ebdfc8e47027f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/838ffe13d49591013f12962faed660dbd5d820ca",
+          "width" : 64
+        } ],
+        "name" : "The Illusion Of Safety",
+        "type" : "album",
+        "uri" : "spotify:album:1xMuoFVsjlYibAHYVNVKpU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+        "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+        "name" : "The Hoosiers",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 344880,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBARL1000752"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0SbLkwRnjKW5aRhymVuIBF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0SbLkwRnjKW5aRhymVuIBF",
+      "id" : "0SbLkwRnjKW5aRhymVuIBF",
+      "is_playable" : true,
+      "name" : "Sarajevo",
+      "popularity" : 20,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7dacf5f8c8c136973a5ef1cf3fe3d20fcbfaaabd?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:0SbLkwRnjKW5aRhymVuIBF"
+    }
+  }, {
+    "added_at" : "2016-12-17T15:16:52Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+          "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+          "name" : "The Hoosiers",
+          "type" : "artist",
+          "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1xMuoFVsjlYibAHYVNVKpU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1xMuoFVsjlYibAHYVNVKpU",
+        "id" : "1xMuoFVsjlYibAHYVNVKpU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/96a0d83cf14805c257e2b8e052e6339a37d074a3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/33db8c41510bf2dd6e9dd0f0d83ebdfc8e47027f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/838ffe13d49591013f12962faed660dbd5d820ca",
+          "width" : 64
+        } ],
+        "name" : "The Illusion Of Safety",
+        "type" : "album",
+        "uri" : "spotify:album:1xMuoFVsjlYibAHYVNVKpU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LlDtNr8qFwhrT8eL2wzH4",
+        "id" : "4LlDtNr8qFwhrT8eL2wzH4",
+        "name" : "The Hoosiers",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LlDtNr8qFwhrT8eL2wzH4"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 201920,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBARL1000753"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1tTUkGVuN4qfHZlHWvO6re"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1tTUkGVuN4qfHZlHWvO6re",
+      "id" : "1tTUkGVuN4qfHZlHWvO6re",
+      "is_playable" : true,
+      "name" : "Little Brutes",
+      "popularity" : 18,
+      "preview_url" : "https://p.scdn.co/mp3-preview/db3ea329d99a10d7015c649cace4b5c969c4888f?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:1tTUkGVuN4qfHZlHWvO6re"
+    }
+  }, {
+    "added_at" : "2016-12-17T07:57:19Z",
+    "track" : {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+          },
+          "href" : "https://api.spotify.com/v1/artists/07QEuhtrNmmZ0zEcqE9SF6",
+          "id" : "07QEuhtrNmmZ0zEcqE9SF6",
+          "name" : "Owl City",
+          "type" : "artist",
+          "uri" : "spotify:artist:07QEuhtrNmmZ0zEcqE9SF6"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+          "id" : "6sFIWsNpZYqfjUpaCgueju",
+          "name" : "Carly Rae Jepsen",
+          "type" : "artist",
+          "uri" : "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1UHpfPXNZpGXoaFIjl36fe"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1UHpfPXNZpGXoaFIjl36fe",
+        "id" : "1UHpfPXNZpGXoaFIjl36fe",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2b1a68996adc4cdec7ecdee6ca3b7fbc6518a34a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/1187e2b854aa449a7329c2ead3567a555a25f04b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/4c67a8ef5be74b6de4b4019c4ded3f5cf0a13e13",
+          "width" : 64
+        } ],
+        "name" : "Good Time",
+        "type" : "album",
+        "uri" : "spotify:album:1UHpfPXNZpGXoaFIjl36fe"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07QEuhtrNmmZ0zEcqE9SF6",
+        "id" : "07QEuhtrNmmZ0zEcqE9SF6",
+        "name" : "Owl City",
+        "type" : "artist",
+        "uri" : "spotify:artist:07QEuhtrNmmZ0zEcqE9SF6"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id" : "6sFIWsNpZYqfjUpaCgueju",
+        "name" : "Carly Rae Jepsen",
+        "type" : "artist",
+        "uri" : "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 206200,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71206288"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3g74RTdo5CgSD1FSnU3Zrr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3g74RTdo5CgSD1FSnU3Zrr",
+      "id" : "3g74RTdo5CgSD1FSnU3Zrr",
+      "is_playable" : true,
+      "name" : "Good Time",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4fe167d916d7d02ad5ad0306f922b1202a4d21dc?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3g74RTdo5CgSD1FSnU3Zrr"
+    }
+  }, {
+    "added_at" : "2016-12-17T07:57:19Z",
+    "track" : {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+          },
+          "href" : "https://api.spotify.com/v1/artists/07QEuhtrNmmZ0zEcqE9SF6",
+          "id" : "07QEuhtrNmmZ0zEcqE9SF6",
+          "name" : "Owl City",
+          "type" : "artist",
+          "uri" : "spotify:artist:07QEuhtrNmmZ0zEcqE9SF6"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+          "id" : "6sFIWsNpZYqfjUpaCgueju",
+          "name" : "Carly Rae Jepsen",
+          "type" : "artist",
+          "uri" : "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1UHpfPXNZpGXoaFIjl36fe"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1UHpfPXNZpGXoaFIjl36fe",
+        "id" : "1UHpfPXNZpGXoaFIjl36fe",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2b1a68996adc4cdec7ecdee6ca3b7fbc6518a34a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/1187e2b854aa449a7329c2ead3567a555a25f04b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/4c67a8ef5be74b6de4b4019c4ded3f5cf0a13e13",
+          "width" : 64
+        } ],
+        "name" : "Good Time",
+        "type" : "album",
+        "uri" : "spotify:album:1UHpfPXNZpGXoaFIjl36fe"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07QEuhtrNmmZ0zEcqE9SF6",
+        "id" : "07QEuhtrNmmZ0zEcqE9SF6",
+        "name" : "Owl City",
+        "type" : "artist",
+        "uri" : "spotify:artist:07QEuhtrNmmZ0zEcqE9SF6"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id" : "6sFIWsNpZYqfjUpaCgueju",
+        "name" : "Carly Rae Jepsen",
+        "type" : "artist",
+        "uri" : "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2Dr744zaEbNqmW9jxw4gfq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2Dr744zaEbNqmW9jxw4gfq",
+        "id" : "2Dr744zaEbNqmW9jxw4gfq",
+        "name" : "Adam Young",
+        "type" : "artist",
+        "uri" : "spotify:artist:2Dr744zaEbNqmW9jxw4gfq"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 190293,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71207591"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6E1iHy70glfg4ZhAIxHtHC"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6E1iHy70glfg4ZhAIxHtHC",
+      "id" : "6E1iHy70glfg4ZhAIxHtHC",
+      "is_playable" : true,
+      "name" : "Good Time - Adam Young Remix",
+      "popularity" : 10,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c333c169c01273d72513aee37f09bc73e21da2b5?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:6E1iHy70glfg4ZhAIxHtHC"
+    }
+  }, {
+    "added_at" : "2016-12-17T07:57:19Z",
+    "track" : {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+          },
+          "href" : "https://api.spotify.com/v1/artists/07QEuhtrNmmZ0zEcqE9SF6",
+          "id" : "07QEuhtrNmmZ0zEcqE9SF6",
+          "name" : "Owl City",
+          "type" : "artist",
+          "uri" : "spotify:artist:07QEuhtrNmmZ0zEcqE9SF6"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+          "id" : "6sFIWsNpZYqfjUpaCgueju",
+          "name" : "Carly Rae Jepsen",
+          "type" : "artist",
+          "uri" : "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1UHpfPXNZpGXoaFIjl36fe"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1UHpfPXNZpGXoaFIjl36fe",
+        "id" : "1UHpfPXNZpGXoaFIjl36fe",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2b1a68996adc4cdec7ecdee6ca3b7fbc6518a34a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/1187e2b854aa449a7329c2ead3567a555a25f04b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/4c67a8ef5be74b6de4b4019c4ded3f5cf0a13e13",
+          "width" : 64
+        } ],
+        "name" : "Good Time",
+        "type" : "album",
+        "uri" : "spotify:album:1UHpfPXNZpGXoaFIjl36fe"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07QEuhtrNmmZ0zEcqE9SF6",
+        "id" : "07QEuhtrNmmZ0zEcqE9SF6",
+        "name" : "Owl City",
+        "type" : "artist",
+        "uri" : "spotify:artist:07QEuhtrNmmZ0zEcqE9SF6"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id" : "6sFIWsNpZYqfjUpaCgueju",
+        "name" : "Carly Rae Jepsen",
+        "type" : "artist",
+        "uri" : "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0AfNNw1LS2i9KW4icd7inD",
+        "id" : "0AfNNw1LS2i9KW4icd7inD",
+        "name" : "Fred Falke",
+        "type" : "artist",
+        "uri" : "spotify:artist:0AfNNw1LS2i9KW4icd7inD"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 368133,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71207638"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3iqo6sDUuekssQGs5Gczas"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3iqo6sDUuekssQGs5Gczas",
+      "id" : "3iqo6sDUuekssQGs5Gczas",
+      "is_playable" : true,
+      "name" : "Good Time - Fred Falke Remix [Full]",
+      "popularity" : 9,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6ea08ddee12113fe6dd8ce4601e6dc7374345478?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:3iqo6sDUuekssQGs5Gczas"
+    }
+  }, {
+    "added_at" : "2016-12-17T07:57:19Z",
+    "track" : {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+          },
+          "href" : "https://api.spotify.com/v1/artists/07QEuhtrNmmZ0zEcqE9SF6",
+          "id" : "07QEuhtrNmmZ0zEcqE9SF6",
+          "name" : "Owl City",
+          "type" : "artist",
+          "uri" : "spotify:artist:07QEuhtrNmmZ0zEcqE9SF6"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+          "id" : "6sFIWsNpZYqfjUpaCgueju",
+          "name" : "Carly Rae Jepsen",
+          "type" : "artist",
+          "uri" : "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1UHpfPXNZpGXoaFIjl36fe"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1UHpfPXNZpGXoaFIjl36fe",
+        "id" : "1UHpfPXNZpGXoaFIjl36fe",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2b1a68996adc4cdec7ecdee6ca3b7fbc6518a34a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/1187e2b854aa449a7329c2ead3567a555a25f04b",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/4c67a8ef5be74b6de4b4019c4ded3f5cf0a13e13",
+          "width" : 64
+        } ],
+        "name" : "Good Time",
+        "type" : "album",
+        "uri" : "spotify:album:1UHpfPXNZpGXoaFIjl36fe"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07QEuhtrNmmZ0zEcqE9SF6",
+        "id" : "07QEuhtrNmmZ0zEcqE9SF6",
+        "name" : "Owl City",
+        "type" : "artist",
+        "uri" : "spotify:artist:07QEuhtrNmmZ0zEcqE9SF6"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id" : "6sFIWsNpZYqfjUpaCgueju",
+        "name" : "Carly Rae Jepsen",
+        "type" : "artist",
+        "uri" : "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2fLCjXwadBsnYmn05uxFpi",
+        "id" : "2fLCjXwadBsnYmn05uxFpi",
+        "name" : "Wideboys",
+        "type" : "artist",
+        "uri" : "spotify:artist:2fLCjXwadBsnYmn05uxFpi"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 331040,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71207640"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/62QN0qRh856Y0v85k3h9b3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/62QN0qRh856Y0v85k3h9b3",
+      "id" : "62QN0qRh856Y0v85k3h9b3",
+      "is_playable" : true,
+      "name" : "Good Time - Wideboys Remix [Club]",
+      "popularity" : 10,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f765db107f6e6e9481d16fb28cc882d339a8d22c?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:62QN0qRh856Y0v85k3h9b3"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 50480,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600301"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5pfrcEeyn03xVBIADYCsvJ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5pfrcEeyn03xVBIADYCsvJ",
+      "id" : "5pfrcEeyn03xVBIADYCsvJ",
+      "is_playable" : true,
+      "name" : "Tune Up #1",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2537958136453f9f9c264061abf01e2f65c7cc40?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:5pfrcEeyn03xVBIADYCsvJ"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7KwThjPkrUzaQxGYSsobOm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7KwThjPkrUzaQxGYSsobOm",
+        "id" : "7KwThjPkrUzaQxGYSsobOm",
+        "name" : "Kristen Lee Kelly",
+        "type" : "artist",
+        "uri" : "spotify:artist:7KwThjPkrUzaQxGYSsobOm"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 35619,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600302"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2OrqU5lFfTAE7Sx0D7wYFx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2OrqU5lFfTAE7Sx0D7wYFx",
+      "id" : "2OrqU5lFfTAE7Sx0D7wYFx",
+      "is_playable" : true,
+      "name" : "Voice Mail #1",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2c516b26a22c6451e838cc861aeb71247ee9fe28?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:2OrqU5lFfTAE7Sx0D7wYFx"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 91811,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600303"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0WdWP0BF5fFDLTt30xtXoh"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0WdWP0BF5fFDLTt30xtXoh",
+      "id" : "0WdWP0BF5fFDLTt30xtXoh",
+      "is_playable" : true,
+      "name" : "Tune Up #2",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/01331801f0be054025cdba2f0a5183eb26997212?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:0WdWP0BF5fFDLTt30xtXoh"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WJ95VwySC8v8HR504J5vR",
+        "id" : "0WJ95VwySC8v8HR504J5vR",
+        "name" : "Daphne Rubin-Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WJ95VwySC8v8HR504J5vR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR",
+        "id" : "73Np75Wv2tju61Eo9Zw4IR",
+        "name" : "Idina Menzel",
+        "type" : "artist",
+        "uri" : "spotify:artist:73Np75Wv2tju61Eo9Zw4IR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ZM2YJ9lAgQsmPmKTN6oi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ZM2YJ9lAgQsmPmKTN6oi3",
+        "id" : "4ZM2YJ9lAgQsmPmKTN6oi3",
+        "name" : "Fredi Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ZM2YJ9lAgQsmPmKTN6oi3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6jRmwlzMVSICyO97aN7UnT",
+        "id" : "6jRmwlzMVSICyO97aN7UnT",
+        "name" : "Taye Diggs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6jRmwlzMVSICyO97aN7UnT"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 264986,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600304"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3QCouYTEKVEWlpuYwH3XVg"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3QCouYTEKVEWlpuYwH3XVg",
+      "id" : "3QCouYTEKVEWlpuYwH3XVg",
+      "is_playable" : true,
+      "name" : "Rent",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/cea3b84efb8eb3564861ddff081d44692b1505d5?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:3QCouYTEKVEWlpuYwH3XVg"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 101610,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600305"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4rtg9TA3SFRzH5owsQ6OQ2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4rtg9TA3SFRzH5owsQ6OQ2",
+      "id" : "4rtg9TA3SFRzH5owsQ6OQ2",
+      "is_playable" : true,
+      "name" : "You Okay Honey?",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7a740015272dded93cdb781c64859ada72f86955?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:4rtg9TA3SFRzH5owsQ6OQ2"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 24288,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600306"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5F1kCbXiJIe7CP1udEJYiN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5F1kCbXiJIe7CP1udEJYiN",
+      "id" : "5F1kCbXiJIe7CP1udEJYiN",
+      "is_playable" : true,
+      "name" : "Tune Up #3",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0a865f0bd68d53b3a4320756dfe5323fe7d595ab?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:5F1kCbXiJIe7CP1udEJYiN"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 163468,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600307"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6sDwJODsmBVEKmGaDZZ49i"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6sDwJODsmBVEKmGaDZZ49i",
+      "id" : "6sDwJODsmBVEKmGaDZZ49i",
+      "is_playable" : true,
+      "name" : "One Song Glory",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7e727c53b77387e71eac8ecc0035ea0f09b5a0c8?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:6sDwJODsmBVEKmGaDZZ49i"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WJ95VwySC8v8HR504J5vR",
+        "id" : "0WJ95VwySC8v8HR504J5vR",
+        "name" : "Daphne Rubin-Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WJ95VwySC8v8HR504J5vR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 244599,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600308"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3kHXHXj4pUkRdIdMCtg2sL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3kHXHXj4pUkRdIdMCtg2sL",
+      "id" : "3kHXHXj4pUkRdIdMCtg2sL",
+      "is_playable" : true,
+      "name" : "Light My Candle",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c70a47bad378ef7627b3deebca2d96a8063c2135?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:3kHXHXj4pUkRdIdMCtg2sL"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7yoLihCPBQKfei99KMFKgw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7yoLihCPBQKfei99KMFKgw",
+        "id" : "7yoLihCPBQKfei99KMFKgw",
+        "name" : "Byron Utley",
+        "type" : "artist",
+        "uri" : "spotify:artist:7yoLihCPBQKfei99KMFKgw"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Kq21fWcGSMgRYeRpXnfOJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Kq21fWcGSMgRYeRpXnfOJ",
+        "id" : "1Kq21fWcGSMgRYeRpXnfOJ",
+        "name" : "Gwen Stewart",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Kq21fWcGSMgRYeRpXnfOJ"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 44768,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600309"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5BIoNfy6veTqdBlUwkcCIK"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5BIoNfy6veTqdBlUwkcCIK",
+      "id" : "5BIoNfy6veTqdBlUwkcCIK",
+      "is_playable" : true,
+      "name" : "Voice Mail #2",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/aa29a1b7f8ef61c002883281c4bb7d65dcdf770a?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:5BIoNfy6veTqdBlUwkcCIK"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 209351,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600310"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7j6zR83Pr1aoQLL35TeacW"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7j6zR83Pr1aoQLL35TeacW",
+      "id" : "7j6zR83Pr1aoQLL35TeacW",
+      "is_playable" : true,
+      "name" : "Today 4 U",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9d61aee1f0774e081bf674b24a17b4431e7a491b?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:7j6zR83Pr1aoQLL35TeacW"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6jRmwlzMVSICyO97aN7UnT",
+        "id" : "6jRmwlzMVSICyO97aN7UnT",
+        "name" : "Taye Diggs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6jRmwlzMVSICyO97aN7UnT"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 176889,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600311"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0kysqry4vYOhncJFSfVQax"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0kysqry4vYOhncJFSfVQax",
+      "id" : "0kysqry4vYOhncJFSfVQax",
+      "is_playable" : true,
+      "name" : "You'll See",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9271770a3c0542c2a89f3c98aeee481aee56f498?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:0kysqry4vYOhncJFSfVQax"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ZM2YJ9lAgQsmPmKTN6oi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ZM2YJ9lAgQsmPmKTN6oi3",
+        "id" : "4ZM2YJ9lAgQsmPmKTN6oi3",
+        "name" : "Fredi Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ZM2YJ9lAgQsmPmKTN6oi3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 208375,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600312"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6vxvNCHuBXDspiE1JPBGUG"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6vxvNCHuBXDspiE1JPBGUG",
+      "id" : "6vxvNCHuBXDspiE1JPBGUG",
+      "is_playable" : true,
+      "name" : "Tango: Maureen",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/cefb4f5ae542253dd5cc8adefeb59fef73a7c87c?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:6vxvNCHuBXDspiE1JPBGUG"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7uii9kjltazBBh4niG6SwZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7uii9kjltazBBh4niG6SwZ",
+        "id" : "7uii9kjltazBBh4niG6SwZ",
+        "name" : "Gilles Chiasson",
+        "type" : "artist",
+        "uri" : "spotify:artist:7uii9kjltazBBh4niG6SwZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0MtkRDqAtTDKGU19zXE4HB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0MtkRDqAtTDKGU19zXE4HB",
+        "id" : "0MtkRDqAtTDKGU19zXE4HB",
+        "name" : "Timothy Britten Parker",
+        "type" : "artist",
+        "uri" : "spotify:artist:0MtkRDqAtTDKGU19zXE4HB"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5EwNrcNjpq39b6CJb6MYaI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5EwNrcNjpq39b6CJb6MYaI",
+        "id" : "5EwNrcNjpq39b6CJb6MYaI",
+        "name" : "Rodney Hicks",
+        "type" : "artist",
+        "uri" : "spotify:artist:5EwNrcNjpq39b6CJb6MYaI"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 118468,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600313"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/54JO1GaUnI5DUX2vxuIrPd"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/54JO1GaUnI5DUX2vxuIrPd",
+      "id" : "54JO1GaUnI5DUX2vxuIrPd",
+      "is_playable" : true,
+      "name" : "Life Support",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/105ee8063c57a198852624e2f5883a8be528bd23?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:54JO1GaUnI5DUX2vxuIrPd"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WJ95VwySC8v8HR504J5vR",
+        "id" : "0WJ95VwySC8v8HR504J5vR",
+        "name" : "Daphne Rubin-Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WJ95VwySC8v8HR504J5vR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 228577,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600314"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7hzQPF1zgwEscVHOCVGfVD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7hzQPF1zgwEscVHOCVGfVD",
+      "id" : "7hzQPF1zgwEscVHOCVGfVD",
+      "is_playable" : true,
+      "name" : "Out Tonight",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/cd74ef8d536df401562e9e9a72b2cabbd8e27bfd?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:7hzQPF1zgwEscVHOCVGfVD"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WJ95VwySC8v8HR504J5vR",
+        "id" : "0WJ95VwySC8v8HR504J5vR",
+        "name" : "Daphne Rubin-Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WJ95VwySC8v8HR504J5vR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 283794,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600315"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4xoHzIR4acbfC8v3Du7D4z"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4xoHzIR4acbfC8v3Du7D4z",
+      "id" : "4xoHzIR4acbfC8v3Du7D4z",
+      "is_playable" : true,
+      "name" : "Another Day",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2f8ee8e04961bbd2414b0c8265f0795a687d8731?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:4xoHzIR4acbfC8v3Du7D4z"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7uii9kjltazBBh4niG6SwZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7uii9kjltazBBh4niG6SwZ",
+        "id" : "7uii9kjltazBBh4niG6SwZ",
+        "name" : "Gilles Chiasson",
+        "type" : "artist",
+        "uri" : "spotify:artist:7uii9kjltazBBh4niG6SwZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 148793,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600316"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5TvQwbAHUyIzhEyA7v6MBF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5TvQwbAHUyIzhEyA7v6MBF",
+      "id" : "5TvQwbAHUyIzhEyA7v6MBF",
+      "is_playable" : true,
+      "name" : "Will I?",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d70133f199eda04cf4084b6ac2aa5170e75d17e8?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:5TvQwbAHUyIzhEyA7v6MBF"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 92694,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600317"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/10JtM4hfunq1Lbutl6eA9f"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/10JtM4hfunq1Lbutl6eA9f",
+      "id" : "10JtM4hfunq1Lbutl6eA9f",
+      "is_playable" : true,
+      "name" : "On The Street",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4312113fdf32424af1497eaa71f7479742b63955?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:10JtM4hfunq1Lbutl6eA9f"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 192725,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600318"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4ttoIwV1jVHBEtfsIeC5Yw"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4ttoIwV1jVHBEtfsIeC5Yw",
+      "id" : "4ttoIwV1jVHBEtfsIeC5Yw",
+      "is_playable" : true,
+      "name" : "Santa Fe",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d9f998bfb5ebe9993fe9e056ec67c5d85c6589d4?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 18,
+      "type" : "track",
+      "uri" : "spotify:track:4ttoIwV1jVHBEtfsIeC5Yw"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 148561,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600319"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0nVyMqU9d06vrAR3y8wnMq"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0nVyMqU9d06vrAR3y8wnMq",
+      "id" : "0nVyMqU9d06vrAR3y8wnMq",
+      "is_playable" : true,
+      "name" : "I'll Cover You",
+      "popularity" : 30,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c99fd964d2d21969bf5cd4b66e9f7e6ade120ae8?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:0nVyMqU9d06vrAR3y8wnMq"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ZM2YJ9lAgQsmPmKTN6oi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ZM2YJ9lAgQsmPmKTN6oi3",
+        "id" : "4ZM2YJ9lAgQsmPmKTN6oi3",
+        "name" : "Fredi Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ZM2YJ9lAgQsmPmKTN6oi3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 82059,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600320"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2OR9thXioMQbGsHPdOHeT2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2OR9thXioMQbGsHPdOHeT2",
+      "id" : "2OR9thXioMQbGsHPdOHeT2",
+      "is_playable" : true,
+      "name" : "We're Okay",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/94ee6c5dcd07b6ecf2542d2de5ac2d0428deab54?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 20,
+      "type" : "track",
+      "uri" : "spotify:track:2OR9thXioMQbGsHPdOHeT2"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WJ95VwySC8v8HR504J5vR",
+        "id" : "0WJ95VwySC8v8HR504J5vR",
+        "name" : "Daphne Rubin-Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WJ95VwySC8v8HR504J5vR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6jRmwlzMVSICyO97aN7UnT",
+        "id" : "6jRmwlzMVSICyO97aN7UnT",
+        "name" : "Taye Diggs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6jRmwlzMVSICyO97aN7UnT"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR",
+        "id" : "73Np75Wv2tju61Eo9Zw4IR",
+        "name" : "Idina Menzel",
+        "type" : "artist",
+        "uri" : "spotify:artist:73Np75Wv2tju61Eo9Zw4IR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 364367,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600321"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5UCtftv0l0Ms0hAiJLm3Rx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5UCtftv0l0Ms0hAiJLm3Rx",
+      "id" : "5UCtftv0l0Ms0hAiJLm3Rx",
+      "is_playable" : true,
+      "name" : "Christmas Bells",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8b7eff2922c8a270ae05d3ddbd5e0d25ee4d7279?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 21,
+      "type" : "track",
+      "uri" : "spotify:track:5UCtftv0l0Ms0hAiJLm3Rx"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR",
+        "id" : "73Np75Wv2tju61Eo9Zw4IR",
+        "name" : "Idina Menzel",
+        "type" : "artist",
+        "uri" : "spotify:artist:73Np75Wv2tju61Eo9Zw4IR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 315698,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600322"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/47Lc0MDgw6IfB19tgwWPoX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/47Lc0MDgw6IfB19tgwWPoX",
+      "id" : "47Lc0MDgw6IfB19tgwWPoX",
+      "is_playable" : true,
+      "name" : "Over The Moon",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6fef0585802b86607a8dc0632ed0036a8fff63fe?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 22,
+      "type" : "track",
+      "uri" : "spotify:track:47Lc0MDgw6IfB19tgwWPoX"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WJ95VwySC8v8HR504J5vR",
+        "id" : "0WJ95VwySC8v8HR504J5vR",
+        "name" : "Daphne Rubin-Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WJ95VwySC8v8HR504J5vR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR",
+        "id" : "73Np75Wv2tju61Eo9Zw4IR",
+        "name" : "Idina Menzel",
+        "type" : "artist",
+        "uri" : "spotify:artist:73Np75Wv2tju61Eo9Zw4IR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ZM2YJ9lAgQsmPmKTN6oi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ZM2YJ9lAgQsmPmKTN6oi3",
+        "id" : "4ZM2YJ9lAgQsmPmKTN6oi3",
+        "name" : "Fredi Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ZM2YJ9lAgQsmPmKTN6oi3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6jRmwlzMVSICyO97aN7UnT",
+        "id" : "6jRmwlzMVSICyO97aN7UnT",
+        "name" : "Taye Diggs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6jRmwlzMVSICyO97aN7UnT"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 480095,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600323"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0G6ZOGbalEEfsdOVAjGH7T"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0G6ZOGbalEEfsdOVAjGH7T",
+      "id" : "0G6ZOGbalEEfsdOVAjGH7T",
+      "is_playable" : true,
+      "name" : "La Vie Boheme",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/bb809f1e8085bb235ee44741e322f067b66ab52e?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 23,
+      "type" : "track",
+      "uri" : "spotify:track:0G6ZOGbalEEfsdOVAjGH7T"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WJ95VwySC8v8HR504J5vR",
+        "id" : "0WJ95VwySC8v8HR504J5vR",
+        "name" : "Daphne Rubin-Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WJ95VwySC8v8HR504J5vR"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 180837,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600324"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4WeVExUYWUhzCQzwQTdCfG"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4WeVExUYWUhzCQzwQTdCfG",
+      "id" : "4WeVExUYWUhzCQzwQTdCfG",
+      "is_playable" : true,
+      "name" : "I Should Tell You",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/68239d36a062327c94734bf2011b584b0540ae60?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 24,
+      "type" : "track",
+      "uri" : "spotify:track:4WeVExUYWUhzCQzwQTdCfG"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WJ95VwySC8v8HR504J5vR",
+        "id" : "0WJ95VwySC8v8HR504J5vR",
+        "name" : "Daphne Rubin-Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WJ95VwySC8v8HR504J5vR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR",
+        "id" : "73Np75Wv2tju61Eo9Zw4IR",
+        "name" : "Idina Menzel",
+        "type" : "artist",
+        "uri" : "spotify:artist:73Np75Wv2tju61Eo9Zw4IR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ZM2YJ9lAgQsmPmKTN6oi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ZM2YJ9lAgQsmPmKTN6oi3",
+        "id" : "4ZM2YJ9lAgQsmPmKTN6oi3",
+        "name" : "Fredi Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ZM2YJ9lAgQsmPmKTN6oi3"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 113220,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600325"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1Q0ZIy4ATCOX18tHoKwgZ7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1Q0ZIy4ATCOX18tHoKwgZ7",
+      "id" : "1Q0ZIy4ATCOX18tHoKwgZ7",
+      "is_playable" : true,
+      "name" : "La Vie Boheme B",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ab0be3c2a5ff6b67b6c15d5a0b3f17346766c8d5?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 25,
+      "type" : "track",
+      "uri" : "spotify:track:1Q0ZIy4ATCOX18tHoKwgZ7"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WJ95VwySC8v8HR504J5vR",
+        "id" : "0WJ95VwySC8v8HR504J5vR",
+        "name" : "Daphne Rubin-Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WJ95VwySC8v8HR504J5vR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR",
+        "id" : "73Np75Wv2tju61Eo9Zw4IR",
+        "name" : "Idina Menzel",
+        "type" : "artist",
+        "uri" : "spotify:artist:73Np75Wv2tju61Eo9Zw4IR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ZM2YJ9lAgQsmPmKTN6oi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ZM2YJ9lAgQsmPmKTN6oi3",
+        "id" : "4ZM2YJ9lAgQsmPmKTN6oi3",
+        "name" : "Fredi Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ZM2YJ9lAgQsmPmKTN6oi3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6jRmwlzMVSICyO97aN7UnT",
+        "id" : "6jRmwlzMVSICyO97aN7UnT",
+        "name" : "Taye Diggs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6jRmwlzMVSICyO97aN7UnT"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Kq21fWcGSMgRYeRpXnfOJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Kq21fWcGSMgRYeRpXnfOJ",
+        "id" : "1Kq21fWcGSMgRYeRpXnfOJ",
+        "name" : "Gwen Stewart",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Kq21fWcGSMgRYeRpXnfOJ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7yoLihCPBQKfei99KMFKgw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7yoLihCPBQKfei99KMFKgw",
+        "id" : "7yoLihCPBQKfei99KMFKgw",
+        "name" : "Byron Utley",
+        "type" : "artist",
+        "uri" : "spotify:artist:7yoLihCPBQKfei99KMFKgw"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 171363,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600326"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/46E41Cg4NXqgTwbXI2WVXb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/46E41Cg4NXqgTwbXI2WVXb",
+      "id" : "46E41Cg4NXqgTwbXI2WVXb",
+      "is_playable" : true,
+      "name" : "Seasons Of Love",
+      "popularity" : 36,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7931687fe9b20d82f0bebf75be6043b2a1057fd5?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:46E41Cg4NXqgTwbXI2WVXb"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WJ95VwySC8v8HR504J5vR",
+        "id" : "0WJ95VwySC8v8HR504J5vR",
+        "name" : "Daphne Rubin-Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WJ95VwySC8v8HR504J5vR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR",
+        "id" : "73Np75Wv2tju61Eo9Zw4IR",
+        "name" : "Idina Menzel",
+        "type" : "artist",
+        "uri" : "spotify:artist:73Np75Wv2tju61Eo9Zw4IR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ZM2YJ9lAgQsmPmKTN6oi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ZM2YJ9lAgQsmPmKTN6oi3",
+        "id" : "4ZM2YJ9lAgQsmPmKTN6oi3",
+        "name" : "Fredi Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ZM2YJ9lAgQsmPmKTN6oi3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 204010,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600327"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1QpbHsbeIol4nxDINzJV9J"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1QpbHsbeIol4nxDINzJV9J",
+      "id" : "1QpbHsbeIol4nxDINzJV9J",
+      "is_playable" : true,
+      "name" : "Happy New Year",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/844debed649142921e7f5aa4497d2e0ce766b60b?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:1QpbHsbeIol4nxDINzJV9J"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7KwThjPkrUzaQxGYSsobOm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7KwThjPkrUzaQxGYSsobOm",
+        "id" : "7KwThjPkrUzaQxGYSsobOm",
+        "name" : "Kristen Lee Kelly",
+        "type" : "artist",
+        "uri" : "spotify:artist:7KwThjPkrUzaQxGYSsobOm"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5boCRQbLtsJ13IFHa2huC1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5boCRQbLtsJ13IFHa2huC1",
+        "id" : "5boCRQbLtsJ13IFHa2huC1",
+        "name" : "Aiko Nakasone",
+        "type" : "artist",
+        "uri" : "spotify:artist:5boCRQbLtsJ13IFHa2huC1"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 50201,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600328"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4W2Uu4LMpgORGEFuVu8arT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4W2Uu4LMpgORGEFuVu8arT",
+      "id" : "4W2Uu4LMpgORGEFuVu8arT",
+      "is_playable" : true,
+      "name" : "Voice Mail #3",
+      "popularity" : 24,
+      "preview_url" : "https://p.scdn.co/mp3-preview/87a7d2ab9dc9fe20b0b699abc81306444deac3e1?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:4W2Uu4LMpgORGEFuVu8arT"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR",
+        "id" : "73Np75Wv2tju61Eo9Zw4IR",
+        "name" : "Idina Menzel",
+        "type" : "artist",
+        "uri" : "spotify:artist:73Np75Wv2tju61Eo9Zw4IR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ZM2YJ9lAgQsmPmKTN6oi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ZM2YJ9lAgQsmPmKTN6oi3",
+        "id" : "4ZM2YJ9lAgQsmPmKTN6oi3",
+        "name" : "Fredi Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ZM2YJ9lAgQsmPmKTN6oi3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6jRmwlzMVSICyO97aN7UnT",
+        "id" : "6jRmwlzMVSICyO97aN7UnT",
+        "name" : "Taye Diggs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6jRmwlzMVSICyO97aN7UnT"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WJ95VwySC8v8HR504J5vR",
+        "id" : "0WJ95VwySC8v8HR504J5vR",
+        "name" : "Daphne Rubin-Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WJ95VwySC8v8HR504J5vR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 236332,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600329"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2UF1KtBbpbJTg0RWHm9DgX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2UF1KtBbpbJTg0RWHm9DgX",
+      "id" : "2UF1KtBbpbJTg0RWHm9DgX",
+      "is_playable" : true,
+      "name" : "Happy New Year B",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b17cfe6bb5a58b049bda9ec938aa69ecd963cbe7?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:2UF1KtBbpbJTg0RWHm9DgX"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR",
+        "id" : "73Np75Wv2tju61Eo9Zw4IR",
+        "name" : "Idina Menzel",
+        "type" : "artist",
+        "uri" : "spotify:artist:73Np75Wv2tju61Eo9Zw4IR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ZM2YJ9lAgQsmPmKTN6oi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ZM2YJ9lAgQsmPmKTN6oi3",
+        "id" : "4ZM2YJ9lAgQsmPmKTN6oi3",
+        "name" : "Fredi Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ZM2YJ9lAgQsmPmKTN6oi3"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 222354,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600330"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0SdKl0aAQSSR051eFxhZ2w"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0SdKl0aAQSSR051eFxhZ2w",
+      "id" : "0SdKl0aAQSSR051eFxhZ2w",
+      "is_playable" : true,
+      "name" : "Take Me Or Leave Me",
+      "popularity" : 33,
+      "preview_url" : "https://p.scdn.co/mp3-preview/519a3144b7e20f1a19d073edc80c7f69211b84de?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:0SdKl0aAQSSR051eFxhZ2w"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WJ95VwySC8v8HR504J5vR",
+        "id" : "0WJ95VwySC8v8HR504J5vR",
+        "name" : "Daphne Rubin-Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WJ95VwySC8v8HR504J5vR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR",
+        "id" : "73Np75Wv2tju61Eo9Zw4IR",
+        "name" : "Idina Menzel",
+        "type" : "artist",
+        "uri" : "spotify:artist:73Np75Wv2tju61Eo9Zw4IR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ZM2YJ9lAgQsmPmKTN6oi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ZM2YJ9lAgQsmPmKTN6oi3",
+        "id" : "4ZM2YJ9lAgQsmPmKTN6oi3",
+        "name" : "Fredi Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ZM2YJ9lAgQsmPmKTN6oi3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6jRmwlzMVSICyO97aN7UnT",
+        "id" : "6jRmwlzMVSICyO97aN7UnT",
+        "name" : "Taye Diggs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6jRmwlzMVSICyO97aN7UnT"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 65062,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600331"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7pwWUBABOL6TVSCm3eq03v"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7pwWUBABOL6TVSCm3eq03v",
+      "id" : "7pwWUBABOL6TVSCm3eq03v",
+      "is_playable" : true,
+      "name" : "Seasons Of Love B",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f81f58fc67134949d0321019049f0677460feea1?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:7pwWUBABOL6TVSCm3eq03v"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WJ95VwySC8v8HR504J5vR",
+        "id" : "0WJ95VwySC8v8HR504J5vR",
+        "name" : "Daphne Rubin-Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WJ95VwySC8v8HR504J5vR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 260992,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600332"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4K68XroPVBVgw3djmeuRxy"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4K68XroPVBVgw3djmeuRxy",
+      "id" : "4K68XroPVBVgw3djmeuRxy",
+      "is_playable" : true,
+      "name" : "Without You",
+      "popularity" : 27,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f715a1d884d356c426499e553c878e982fedb4db?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:4K68XroPVBVgw3djmeuRxy"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5boCRQbLtsJ13IFHa2huC1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5boCRQbLtsJ13IFHa2huC1",
+        "id" : "5boCRQbLtsJ13IFHa2huC1",
+        "name" : "Aiko Nakasone",
+        "type" : "artist",
+        "uri" : "spotify:artist:5boCRQbLtsJ13IFHa2huC1"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 30789,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600333"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7H1g9ubFXd1QiZF4pKQiDH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7H1g9ubFXd1QiZF4pKQiDH",
+      "id" : "7H1g9ubFXd1QiZF4pKQiDH",
+      "is_playable" : true,
+      "name" : "Voice Mail #4",
+      "popularity" : 22,
+      "preview_url" : "https://p.scdn.co/mp3-preview/71aabf933291e2e1b856122fcd423e34d1333c2e?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:7H1g9ubFXd1QiZF4pKQiDH"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WJ95VwySC8v8HR504J5vR",
+        "id" : "0WJ95VwySC8v8HR504J5vR",
+        "name" : "Daphne Rubin-Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WJ95VwySC8v8HR504J5vR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wpskShaCrgkVcET4JzTAV",
+        "id" : "2wpskShaCrgkVcET4JzTAV",
+        "name" : "Wilson Jermaine Heredia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wpskShaCrgkVcET4JzTAV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR",
+        "id" : "73Np75Wv2tju61Eo9Zw4IR",
+        "name" : "Idina Menzel",
+        "type" : "artist",
+        "uri" : "spotify:artist:73Np75Wv2tju61Eo9Zw4IR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ZM2YJ9lAgQsmPmKTN6oi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ZM2YJ9lAgQsmPmKTN6oi3",
+        "id" : "4ZM2YJ9lAgQsmPmKTN6oi3",
+        "name" : "Fredi Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ZM2YJ9lAgQsmPmKTN6oi3"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 127338,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600334"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2TxR5yBKnGGWsaNplXhAMj"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2TxR5yBKnGGWsaNplXhAMj",
+      "id" : "2TxR5yBKnGGWsaNplXhAMj",
+      "is_playable" : true,
+      "name" : "Contact",
+      "popularity" : 26,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0314daf57995873c0059706cfbf650cc85753feb?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:2TxR5yBKnGGWsaNplXhAMj"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ZM2YJ9lAgQsmPmKTN6oi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ZM2YJ9lAgQsmPmKTN6oi3",
+        "id" : "4ZM2YJ9lAgQsmPmKTN6oi3",
+        "name" : "Fredi Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ZM2YJ9lAgQsmPmKTN6oi3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR",
+        "id" : "73Np75Wv2tju61Eo9Zw4IR",
+        "name" : "Idina Menzel",
+        "type" : "artist",
+        "uri" : "spotify:artist:73Np75Wv2tju61Eo9Zw4IR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WJ95VwySC8v8HR504J5vR",
+        "id" : "0WJ95VwySC8v8HR504J5vR",
+        "name" : "Daphne Rubin-Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WJ95VwySC8v8HR504J5vR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6jRmwlzMVSICyO97aN7UnT",
+        "id" : "6jRmwlzMVSICyO97aN7UnT",
+        "name" : "Taye Diggs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6jRmwlzMVSICyO97aN7UnT"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 170295,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600335"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/62iKzbmVQBOAxATk5lwS4B"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/62iKzbmVQBOAxATk5lwS4B",
+      "id" : "62iKzbmVQBOAxATk5lwS4B",
+      "is_playable" : true,
+      "name" : "I'll Cover You (Reprise)",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2dff8f707f667e0875b53b88f7c9a7724df547b7?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:62iKzbmVQBOAxATk5lwS4B"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 108297,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600336"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1lOxHjTEoz6fKmzXKGAO7B"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1lOxHjTEoz6fKmzXKGAO7B",
+      "id" : "1lOxHjTEoz6fKmzXKGAO7B",
+      "is_playable" : true,
+      "name" : "Halloween",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f06f109e02eb8ddc36042783951e0e2528700773?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:1lOxHjTEoz6fKmzXKGAO7B"
+    }
+  }, {
+    "added_at" : "2016-12-11T15:51:48Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id" : "0LyfQWJT6nXafLPZqxe9Of",
+          "name" : "Various Artists",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3DmG6tl7zrh5A5D9zZ6t4a"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3DmG6tl7zrh5A5D9zZ6t4a",
+        "id" : "3DmG6tl7zrh5A5D9zZ6t4a",
+        "images" : [ {
+          "height" : 634,
+          "url" : "https://i.scdn.co/image/d0f733f48a30c7af5020e2715b986c1be63ce90c",
+          "width" : 640
+        }, {
+          "height" : 297,
+          "url" : "https://i.scdn.co/image/c1e5779427fb888b231464bd113cce6368d41995",
+          "width" : 300
+        }, {
+          "height" : 63,
+          "url" : "https://i.scdn.co/image/23de4fd4d9af8f5218490bc36985c8f2296da2e4",
+          "width" : 64
+        } ],
+        "name" : "Rent (Original Broadway Cast)",
+        "type" : "album",
+        "uri" : "spotify:album:3DmG6tl7zrh5A5D9zZ6t4a"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0WJ95VwySC8v8HR504J5vR",
+        "id" : "0WJ95VwySC8v8HR504J5vR",
+        "name" : "Daphne Rubin-Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:0WJ95VwySC8v8HR504J5vR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bvwPCit9Yh0yVdLKGnXRi",
+        "id" : "0bvwPCit9Yh0yVdLKGnXRi",
+        "name" : "Adam Pascal",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bvwPCit9Yh0yVdLKGnXRi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6jRmwlzMVSICyO97aN7UnT",
+        "id" : "6jRmwlzMVSICyO97aN7UnT",
+        "name" : "Taye Diggs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6jRmwlzMVSICyO97aN7UnT"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR",
+        "id" : "73Np75Wv2tju61Eo9Zw4IR",
+        "name" : "Idina Menzel",
+        "type" : "artist",
+        "uri" : "spotify:artist:73Np75Wv2tju61Eo9Zw4IR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ZM2YJ9lAgQsmPmKTN6oi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ZM2YJ9lAgQsmPmKTN6oi3",
+        "id" : "4ZM2YJ9lAgQsmPmKTN6oi3",
+        "name" : "Fredi Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ZM2YJ9lAgQsmPmKTN6oi3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GZGJ33pJdAdUL6IQpK8mR",
+        "id" : "3GZGJ33pJdAdUL6IQpK8mR",
+        "name" : "Anthony Rapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GZGJ33pJdAdUL6IQpK8mR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jpma87NOuRoh5FMf0CW5I",
+        "id" : "5jpma87NOuRoh5FMf0CW5I",
+        "name" : "Jesse L. Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jpma87NOuRoh5FMf0CW5I"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 356844,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDW19600337"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/32brxuO28gcrOAqcnE4l43"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/32brxuO28gcrOAqcnE4l43",
+      "id" : "32brxuO28gcrOAqcnE4l43",
+      "is_playable" : true,
+      "name" : "Goodbye Love",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8fac894f4ae5ff10efa1e25acc01cb0e2e8be413?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:32brxuO28gcrOAqcnE4l43"
+    }
+  } ],
+  "limit" : 50,
+  "next" : "https://api.spotify.com/v1/me/tracks?offset=100&limit=50&market=from_token",
+  "offset" : 50,
+  "previous" : "https://api.spotify.com/v1/me/tracks?offset=0&limit=50&market=from_token",
+  "total" : 1092
+}

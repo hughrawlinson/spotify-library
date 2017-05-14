@@ -1,0 +1,3372 @@
+{
+  "href" : "https://api.spotify.com/v1/me/tracks?offset=400&limit=50&market=from_token",
+  "items" : [ {
+    "added_at" : "2016-12-04T16:08:15Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+          "id" : "1gR0gsQYfi6joyO1dlp76N",
+          "name" : "Justice",
+          "type" : "artist",
+          "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3Nkafp6ZTb1F0bTaAO0ePL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3Nkafp6ZTb1F0bTaAO0ePL",
+        "id" : "3Nkafp6ZTb1F0bTaAO0ePL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/f26752e6fe6c514219b05f77624ef4098deb8da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/0402aa1ec14c48d23610f3a2a36f32e0e6fca1fd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a07b4abf21de974b4c9557b4aeeeab1b39f8f9ac",
+          "width" : 64
+        } ],
+        "name" : "Woman",
+        "type" : "album",
+        "uri" : "spotify:album:3Nkafp6ZTb1F0bTaAO0ePL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+        "id" : "1gR0gsQYfi6joyO1dlp76N",
+        "name" : "Justice",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 429320,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR9W11614933"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/55aJmaSlAHAWpofR6cCbMI"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/55aJmaSlAHAWpofR6cCbMI",
+      "id" : "55aJmaSlAHAWpofR6cCbMI",
+      "is_playable" : true,
+      "name" : "Chorus",
+      "popularity" : 46,
+      "preview_url" : "https://p.scdn.co/mp3-preview/80da2e5fd242e3b4718c0da7920d165a9374e760?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:55aJmaSlAHAWpofR6cCbMI"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:08:15Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+          "id" : "1gR0gsQYfi6joyO1dlp76N",
+          "name" : "Justice",
+          "type" : "artist",
+          "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3Nkafp6ZTb1F0bTaAO0ePL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3Nkafp6ZTb1F0bTaAO0ePL",
+        "id" : "3Nkafp6ZTb1F0bTaAO0ePL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/f26752e6fe6c514219b05f77624ef4098deb8da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/0402aa1ec14c48d23610f3a2a36f32e0e6fca1fd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a07b4abf21de974b4c9557b4aeeeab1b39f8f9ac",
+          "width" : 64
+        } ],
+        "name" : "Woman",
+        "type" : "album",
+        "uri" : "spotify:album:3Nkafp6ZTb1F0bTaAO0ePL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+        "id" : "1gR0gsQYfi6joyO1dlp76N",
+        "name" : "Justice",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 398193,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR9W11607811"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7zkF62wWH97g0ReWw0oPzD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7zkF62wWH97g0ReWw0oPzD",
+      "id" : "7zkF62wWH97g0ReWw0oPzD",
+      "is_playable" : true,
+      "name" : "Randy",
+      "popularity" : 50,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d283c13a7fe8540a007088dc2061f106d3a9ca3d?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:7zkF62wWH97g0ReWw0oPzD"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:08:15Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+          "id" : "1gR0gsQYfi6joyO1dlp76N",
+          "name" : "Justice",
+          "type" : "artist",
+          "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3Nkafp6ZTb1F0bTaAO0ePL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3Nkafp6ZTb1F0bTaAO0ePL",
+        "id" : "3Nkafp6ZTb1F0bTaAO0ePL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/f26752e6fe6c514219b05f77624ef4098deb8da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/0402aa1ec14c48d23610f3a2a36f32e0e6fca1fd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a07b4abf21de974b4c9557b4aeeeab1b39f8f9ac",
+          "width" : 64
+        } ],
+        "name" : "Woman",
+        "type" : "album",
+        "uri" : "spotify:album:3Nkafp6ZTb1F0bTaAO0ePL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+        "id" : "1gR0gsQYfi6joyO1dlp76N",
+        "name" : "Justice",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 270859,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR9W11607810"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4KaPx6Kvd2Xe7Q4ziKbyGN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4KaPx6Kvd2Xe7Q4ziKbyGN",
+      "id" : "4KaPx6Kvd2Xe7Q4ziKbyGN",
+      "is_playable" : true,
+      "name" : "Heavy Metal",
+      "popularity" : 45,
+      "preview_url" : "https://p.scdn.co/mp3-preview/12b74f9b4a643105155205368bd497488aa402a0?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:4KaPx6Kvd2Xe7Q4ziKbyGN"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:08:15Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+          "id" : "1gR0gsQYfi6joyO1dlp76N",
+          "name" : "Justice",
+          "type" : "artist",
+          "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3Nkafp6ZTb1F0bTaAO0ePL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3Nkafp6ZTb1F0bTaAO0ePL",
+        "id" : "3Nkafp6ZTb1F0bTaAO0ePL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/f26752e6fe6c514219b05f77624ef4098deb8da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/0402aa1ec14c48d23610f3a2a36f32e0e6fca1fd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a07b4abf21de974b4c9557b4aeeeab1b39f8f9ac",
+          "width" : 64
+        } ],
+        "name" : "Woman",
+        "type" : "album",
+        "uri" : "spotify:album:3Nkafp6ZTb1F0bTaAO0ePL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+        "id" : "1gR0gsQYfi6joyO1dlp76N",
+        "name" : "Justice",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 303823,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR9W11614934"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3K3gJEbDUQPUIhw15MytrL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3K3gJEbDUQPUIhw15MytrL",
+      "id" : "3K3gJEbDUQPUIhw15MytrL",
+      "is_playable" : true,
+      "name" : "Love S.O.S",
+      "popularity" : 44,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5ceb97b5e15f2e07dfcf710fad9d6183f92ecfd6?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:3K3gJEbDUQPUIhw15MytrL"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:08:15Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+          "id" : "1gR0gsQYfi6joyO1dlp76N",
+          "name" : "Justice",
+          "type" : "artist",
+          "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3Nkafp6ZTb1F0bTaAO0ePL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3Nkafp6ZTb1F0bTaAO0ePL",
+        "id" : "3Nkafp6ZTb1F0bTaAO0ePL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/f26752e6fe6c514219b05f77624ef4098deb8da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/0402aa1ec14c48d23610f3a2a36f32e0e6fca1fd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a07b4abf21de974b4c9557b4aeeeab1b39f8f9ac",
+          "width" : 64
+        } ],
+        "name" : "Woman",
+        "type" : "album",
+        "uri" : "spotify:album:3Nkafp6ZTb1F0bTaAO0ePL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+        "id" : "1gR0gsQYfi6joyO1dlp76N",
+        "name" : "Justice",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 308106,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR9W11614935"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4x7Zo4oVbdaNpqp3vB9LJo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4x7Zo4oVbdaNpqp3vB9LJo",
+      "id" : "4x7Zo4oVbdaNpqp3vB9LJo",
+      "is_playable" : true,
+      "name" : "Close Call",
+      "popularity" : 43,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7326c37b931aaa4404a8938dcaca3d7a5b9690dd?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:4x7Zo4oVbdaNpqp3vB9LJo"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:27Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2wouN3QXejYa5tKetYdcVX",
+          "id" : "2wouN3QXejYa5tKetYdcVX",
+          "name" : "Com Truise",
+          "type" : "artist",
+          "uri" : "spotify:artist:2wouN3QXejYa5tKetYdcVX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5BgPmHhvnk9t35IPZYShlx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5BgPmHhvnk9t35IPZYShlx",
+        "id" : "5BgPmHhvnk9t35IPZYShlx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/767136be9ce9a3b6f3f01ad563042c5c83a00da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/14341ce1f1d751ed836171017641e924c03017e5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/26386f4678e1326b3b417a38e6790989f3a6f845",
+          "width" : 64
+        } ],
+        "name" : "Wave 1",
+        "type" : "album",
+        "uri" : "spotify:album:5BgPmHhvnk9t35IPZYShlx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wouN3QXejYa5tKetYdcVX",
+        "id" : "2wouN3QXejYa5tKetYdcVX",
+        "name" : "Com Truise",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wouN3QXejYa5tKetYdcVX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 118160,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US2J71409801"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1yqwuhQNHe2KJbSuxPc2ku"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1yqwuhQNHe2KJbSuxPc2ku",
+      "id" : "1yqwuhQNHe2KJbSuxPc2ku",
+      "is_playable" : true,
+      "name" : "Wasat",
+      "popularity" : 38,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d838329ee96582dd6806758d34e38a9210d77a11?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1yqwuhQNHe2KJbSuxPc2ku"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:27Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2wouN3QXejYa5tKetYdcVX",
+          "id" : "2wouN3QXejYa5tKetYdcVX",
+          "name" : "Com Truise",
+          "type" : "artist",
+          "uri" : "spotify:artist:2wouN3QXejYa5tKetYdcVX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5BgPmHhvnk9t35IPZYShlx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5BgPmHhvnk9t35IPZYShlx",
+        "id" : "5BgPmHhvnk9t35IPZYShlx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/767136be9ce9a3b6f3f01ad563042c5c83a00da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/14341ce1f1d751ed836171017641e924c03017e5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/26386f4678e1326b3b417a38e6790989f3a6f845",
+          "width" : 64
+        } ],
+        "name" : "Wave 1",
+        "type" : "album",
+        "uri" : "spotify:album:5BgPmHhvnk9t35IPZYShlx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wouN3QXejYa5tKetYdcVX",
+        "id" : "2wouN3QXejYa5tKetYdcVX",
+        "name" : "Com Truise",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wouN3QXejYa5tKetYdcVX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 256919,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US2J71409802"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0EgddWfNDyAFWXG61infev"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0EgddWfNDyAFWXG61infev",
+      "id" : "0EgddWfNDyAFWXG61infev",
+      "is_playable" : true,
+      "name" : "Mind",
+      "popularity" : 37,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ba3421261671ef1e776ae580ee17f48223a72777?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:0EgddWfNDyAFWXG61infev"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:27Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2wouN3QXejYa5tKetYdcVX",
+          "id" : "2wouN3QXejYa5tKetYdcVX",
+          "name" : "Com Truise",
+          "type" : "artist",
+          "uri" : "spotify:artist:2wouN3QXejYa5tKetYdcVX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5BgPmHhvnk9t35IPZYShlx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5BgPmHhvnk9t35IPZYShlx",
+        "id" : "5BgPmHhvnk9t35IPZYShlx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/767136be9ce9a3b6f3f01ad563042c5c83a00da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/14341ce1f1d751ed836171017641e924c03017e5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/26386f4678e1326b3b417a38e6790989f3a6f845",
+          "width" : 64
+        } ],
+        "name" : "Wave 1",
+        "type" : "album",
+        "uri" : "spotify:album:5BgPmHhvnk9t35IPZYShlx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wouN3QXejYa5tKetYdcVX",
+        "id" : "2wouN3QXejYa5tKetYdcVX",
+        "name" : "Com Truise",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wouN3QXejYa5tKetYdcVX"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5XiDsZ4MdTGfZvUEVBGfiA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5XiDsZ4MdTGfZvUEVBGfiA",
+        "id" : "5XiDsZ4MdTGfZvUEVBGfiA",
+        "name" : "Joel Ford",
+        "type" : "artist",
+        "uri" : "spotify:artist:5XiDsZ4MdTGfZvUEVBGfiA"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 268213,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US2J71409803"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4v33G7cXHGCdUid2FuKOg8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4v33G7cXHGCdUid2FuKOg8",
+      "id" : "4v33G7cXHGCdUid2FuKOg8",
+      "is_playable" : true,
+      "name" : "Declination (feat. Joel Ford)",
+      "popularity" : 37,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ee2d32850593c229082e02c1e6f3cf1d92f6f1f1?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:4v33G7cXHGCdUid2FuKOg8"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:27Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2wouN3QXejYa5tKetYdcVX",
+          "id" : "2wouN3QXejYa5tKetYdcVX",
+          "name" : "Com Truise",
+          "type" : "artist",
+          "uri" : "spotify:artist:2wouN3QXejYa5tKetYdcVX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5BgPmHhvnk9t35IPZYShlx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5BgPmHhvnk9t35IPZYShlx",
+        "id" : "5BgPmHhvnk9t35IPZYShlx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/767136be9ce9a3b6f3f01ad563042c5c83a00da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/14341ce1f1d751ed836171017641e924c03017e5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/26386f4678e1326b3b417a38e6790989f3a6f845",
+          "width" : 64
+        } ],
+        "name" : "Wave 1",
+        "type" : "album",
+        "uri" : "spotify:album:5BgPmHhvnk9t35IPZYShlx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wouN3QXejYa5tKetYdcVX",
+        "id" : "2wouN3QXejYa5tKetYdcVX",
+        "name" : "Com Truise",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wouN3QXejYa5tKetYdcVX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 279304,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US2J71409804"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1MEiChbjfUXAOppGxGgsbp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1MEiChbjfUXAOppGxGgsbp",
+      "id" : "1MEiChbjfUXAOppGxGgsbp",
+      "is_playable" : true,
+      "name" : "Subsonic",
+      "popularity" : 46,
+      "preview_url" : "https://p.scdn.co/mp3-preview/aed7783c83ffff4319fdbd612825843bb79d3b2f?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:1MEiChbjfUXAOppGxGgsbp"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:27Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2wouN3QXejYa5tKetYdcVX",
+          "id" : "2wouN3QXejYa5tKetYdcVX",
+          "name" : "Com Truise",
+          "type" : "artist",
+          "uri" : "spotify:artist:2wouN3QXejYa5tKetYdcVX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5BgPmHhvnk9t35IPZYShlx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5BgPmHhvnk9t35IPZYShlx",
+        "id" : "5BgPmHhvnk9t35IPZYShlx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/767136be9ce9a3b6f3f01ad563042c5c83a00da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/14341ce1f1d751ed836171017641e924c03017e5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/26386f4678e1326b3b417a38e6790989f3a6f845",
+          "width" : 64
+        } ],
+        "name" : "Wave 1",
+        "type" : "album",
+        "uri" : "spotify:album:5BgPmHhvnk9t35IPZYShlx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wouN3QXejYa5tKetYdcVX",
+        "id" : "2wouN3QXejYa5tKetYdcVX",
+        "name" : "Com Truise",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wouN3QXejYa5tKetYdcVX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 282674,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US2J71409805"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7Gj7PE4apJAI4f1xGHHmM4"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7Gj7PE4apJAI4f1xGHHmM4",
+      "id" : "7Gj7PE4apJAI4f1xGHHmM4",
+      "is_playable" : true,
+      "name" : "Valis Called (Control)",
+      "popularity" : 35,
+      "preview_url" : "https://p.scdn.co/mp3-preview/fd4c3144c89091b63052b09c92925b220e99500b?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:7Gj7PE4apJAI4f1xGHHmM4"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:27Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2wouN3QXejYa5tKetYdcVX",
+          "id" : "2wouN3QXejYa5tKetYdcVX",
+          "name" : "Com Truise",
+          "type" : "artist",
+          "uri" : "spotify:artist:2wouN3QXejYa5tKetYdcVX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5BgPmHhvnk9t35IPZYShlx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5BgPmHhvnk9t35IPZYShlx",
+        "id" : "5BgPmHhvnk9t35IPZYShlx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/767136be9ce9a3b6f3f01ad563042c5c83a00da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/14341ce1f1d751ed836171017641e924c03017e5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/26386f4678e1326b3b417a38e6790989f3a6f845",
+          "width" : 64
+        } ],
+        "name" : "Wave 1",
+        "type" : "album",
+        "uri" : "spotify:album:5BgPmHhvnk9t35IPZYShlx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wouN3QXejYa5tKetYdcVX",
+        "id" : "2wouN3QXejYa5tKetYdcVX",
+        "name" : "Com Truise",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wouN3QXejYa5tKetYdcVX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 242509,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US2J71409806"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3vmlj5WY21HNbT3sUFUbLm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3vmlj5WY21HNbT3sUFUbLm",
+      "id" : "3vmlj5WY21HNbT3sUFUbLm",
+      "is_playable" : true,
+      "name" : "Miserere Mei",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d8647187a3f20e7f25c16f60669dcbf48f1bda4d?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:3vmlj5WY21HNbT3sUFUbLm"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:27Z",
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2wouN3QXejYa5tKetYdcVX",
+          "id" : "2wouN3QXejYa5tKetYdcVX",
+          "name" : "Com Truise",
+          "type" : "artist",
+          "uri" : "spotify:artist:2wouN3QXejYa5tKetYdcVX"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5BgPmHhvnk9t35IPZYShlx"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5BgPmHhvnk9t35IPZYShlx",
+        "id" : "5BgPmHhvnk9t35IPZYShlx",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/767136be9ce9a3b6f3f01ad563042c5c83a00da2",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/14341ce1f1d751ed836171017641e924c03017e5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/26386f4678e1326b3b417a38e6790989f3a6f845",
+          "width" : 64
+        } ],
+        "name" : "Wave 1",
+        "type" : "album",
+        "uri" : "spotify:album:5BgPmHhvnk9t35IPZYShlx"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wouN3QXejYa5tKetYdcVX",
+        "id" : "2wouN3QXejYa5tKetYdcVX",
+        "name" : "Com Truise",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wouN3QXejYa5tKetYdcVX"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 242897,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "US2J71409807"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1oji0WIWsR6EJq35gDTqrp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1oji0WIWsR6EJq35gDTqrp",
+      "id" : "1oji0WIWsR6EJq35gDTqrp",
+      "is_playable" : true,
+      "name" : "Wave 1",
+      "popularity" : 37,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9c09b03cbd433f4b798fa29de25e9efcb90b953c?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:1oji0WIWsR6EJq35gDTqrp"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 355466,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029604"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5wSXPGYKMycWJQE2b0UFEH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5wSXPGYKMycWJQE2b0UFEH",
+      "id" : "5wSXPGYKMycWJQE2b0UFEH",
+      "is_playable" : true,
+      "name" : "Bohemian Rhapsody - Remastered 2011",
+      "popularity" : 52,
+      "preview_url" : "https://p.scdn.co/mp3-preview/34882e4905f4a7421c1290aaee2c689bb1cdfdf3?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:5wSXPGYKMycWJQE2b0UFEH"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 215333,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029605"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4M7xuGgOtPwiTee1JXG617"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4M7xuGgOtPwiTee1JXG617",
+      "id" : "4M7xuGgOtPwiTee1JXG617",
+      "is_playable" : true,
+      "name" : "Another One Bites The Dust - Remastered 2011",
+      "popularity" : 51,
+      "preview_url" : "https://p.scdn.co/mp3-preview/81f8a96fcdbaa8b647d98e03a2fe23d6b832fb92?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:4M7xuGgOtPwiTee1JXG617"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 179600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029606"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1pYUamVEC7KbYfsc2ahGgY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1pYUamVEC7KbYfsc2ahGgY",
+      "id" : "1pYUamVEC7KbYfsc2ahGgY",
+      "is_playable" : true,
+      "name" : "Killer Queen - Remastered 2011",
+      "popularity" : 50,
+      "preview_url" : "https://p.scdn.co/mp3-preview/718f33137b25a8dc1431ed43a0db17a13d8940c6?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:1pYUamVEC7KbYfsc2ahGgY"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 202440,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029607"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3YvtRvgkXPB6mN8c6FEoE1"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3YvtRvgkXPB6mN8c6FEoE1",
+      "id" : "3YvtRvgkXPB6mN8c6FEoE1",
+      "is_playable" : true,
+      "name" : "Fat Bottomed Girls - Remastered 2011",
+      "popularity" : 51,
+      "preview_url" : "https://p.scdn.co/mp3-preview/eba66e1a9040934820dee6f4c0e1ca2d33a5e716?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:3YvtRvgkXPB6mN8c6FEoE1"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 180813,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029608"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5CYWNoCX6hSEMoEBbuvUPs"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5CYWNoCX6hSEMoEBbuvUPs",
+      "id" : "5CYWNoCX6hSEMoEBbuvUPs",
+      "is_playable" : true,
+      "name" : "Bicycle Race - Remastered 2011",
+      "popularity" : 48,
+      "preview_url" : "https://p.scdn.co/mp3-preview/68dd020451c4cc19b095e7887278fc61b8423894?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:5CYWNoCX6hSEMoEBbuvUPs"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 170866,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029609"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7Eovrcp2RjYRieE7Q3IXIy"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7Eovrcp2RjYRieE7Q3IXIy",
+      "id" : "7Eovrcp2RjYRieE7Q3IXIy",
+      "is_playable" : true,
+      "name" : "You're My Best Friend - Remastered 2011",
+      "popularity" : 45,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4568c355149e7b00fa7fa1bdcadf5d73a2230d90?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:7Eovrcp2RjYRieE7Q3IXIy"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 209653,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029610"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/24u9uDXSk0KF1axL901RZy"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/24u9uDXSk0KF1axL901RZy",
+      "id" : "24u9uDXSk0KF1axL901RZy",
+      "is_playable" : true,
+      "name" : "Don't Stop Me Now - Remastered 2011",
+      "popularity" : 51,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3f4836cce11a00f98736f43f4bd3e43da9ff53be?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:24u9uDXSk0KF1axL901RZy"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 228053,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029611"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3tFdJZymjNlM9xG79xILui"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3tFdJZymjNlM9xG79xILui",
+      "id" : "3tFdJZymjNlM9xG79xILui",
+      "is_playable" : true,
+      "name" : "Save Me - Remastered 2011",
+      "popularity" : 45,
+      "preview_url" : "https://p.scdn.co/mp3-preview/41f9ab0ebde231384fac9e669c7642866e858fe5?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:3tFdJZymjNlM9xG79xILui"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 163360,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029612"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/52tLWaheh5uj8o7JYGIuEn"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/52tLWaheh5uj8o7JYGIuEn",
+      "id" : "52tLWaheh5uj8o7JYGIuEn",
+      "is_playable" : true,
+      "name" : "Crazy Little Thing Called Love - Remastered 2011",
+      "popularity" : 48,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9c90f65c907d0c2f75e6d4687d29138538fd57e0?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:52tLWaheh5uj8o7JYGIuEn"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 296453,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029613"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/55PDIUJ9uqyriY8uDL7ZOn"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/55PDIUJ9uqyriY8uDL7ZOn",
+      "id" : "55PDIUJ9uqyriY8uDL7ZOn",
+      "is_playable" : true,
+      "name" : "Somebody To Love - Remastered 2011",
+      "popularity" : 49,
+      "preview_url" : "https://p.scdn.co/mp3-preview/113e0af669cde5743a8ab7f024dd1cec6d1f787b?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:55PDIUJ9uqyriY8uDL7ZOn"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 253373,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029620"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2cQroAg7LTQr69IR0qDUiU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2cQroAg7LTQr69IR0qDUiU",
+      "id" : "2cQroAg7LTQr69IR0qDUiU",
+      "is_playable" : true,
+      "name" : "Now I'm Here - Remastered 2011",
+      "popularity" : 43,
+      "preview_url" : "https://p.scdn.co/mp3-preview/50f4257cdb2719265d6561c8da90f7fa101e31a0?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:2cQroAg7LTQr69IR0qDUiU"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 173053,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029614"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7JhXB3GpLp2LmUiDx1aC0i"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7JhXB3GpLp2LmUiDx1aC0i",
+      "id" : "7JhXB3GpLp2LmUiDx1aC0i",
+      "is_playable" : true,
+      "name" : "Good Old-Fashioned Lover Boy - Remastered 2011",
+      "popularity" : 45,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6552a48f4373d3cceb4c987aae17ce65316c06a0?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:7JhXB3GpLp2LmUiDx1aC0i"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 211840,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029615"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/559ZbCr1ShUKoASZSmxJDR"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/559ZbCr1ShUKoASZSmxJDR",
+      "id" : "559ZbCr1ShUKoASZSmxJDR",
+      "is_playable" : true,
+      "name" : "Play The Game - Remastered 2011",
+      "popularity" : 43,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5ce7e7a0c6d6738c582d589b58fb049a5153f878?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:559ZbCr1ShUKoASZSmxJDR"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 167373,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029616"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1Z6okLuqS7BYpZCKEXXdzr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1Z6okLuqS7BYpZCKEXXdzr",
+      "id" : "1Z6okLuqS7BYpZCKEXXdzr",
+      "is_playable" : true,
+      "name" : "Flash - Remastered 2011",
+      "popularity" : 44,
+      "preview_url" : "https://p.scdn.co/mp3-preview/839c232552478f8c7ac2fe6c1a135907956a9d40?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:1Z6okLuqS7BYpZCKEXXdzr"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 167026,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029617"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1CUwZctRcv4CxlCpG5Q1ik"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1CUwZctRcv4CxlCpG5Q1ik",
+      "id" : "1CUwZctRcv4CxlCpG5Q1ik",
+      "is_playable" : true,
+      "name" : "Seven Seas Of Rhye - Remastered 2011",
+      "popularity" : 46,
+      "preview_url" : "https://p.scdn.co/mp3-preview/988f6327b59cc468b5b5dcc62a9f9544d5d509b2?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:1CUwZctRcv4CxlCpG5Q1ik"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 121813,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029618"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3ZLr3O0NQpBhWlbEC3gxIb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3ZLr3O0NQpBhWlbEC3gxIb",
+      "id" : "3ZLr3O0NQpBhWlbEC3gxIb",
+      "is_playable" : true,
+      "name" : "We Will Rock You - Remastered 2011",
+      "popularity" : 46,
+      "preview_url" : "https://p.scdn.co/mp3-preview/db7e34e755e37b7dc30ae68a3424d92f253bd127?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:3ZLr3O0NQpBhWlbEC3gxIb"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 186920,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029619"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/088irNe7lnmQLZ3c4Vkqf2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/088irNe7lnmQLZ3c4Vkqf2",
+      "id" : "088irNe7lnmQLZ3c4Vkqf2",
+      "is_playable" : true,
+      "name" : "We Are The Champions - Remastered 2011",
+      "popularity" : 47,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d68375268cefa0ee1d4e75fbf26fa350dfa58029?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:088irNe7lnmQLZ3c4Vkqf2"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 262253,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029621"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7rU8lvY0ni04mzPvMVPK8y"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7rU8lvY0ni04mzPvMVPK8y",
+      "id" : "7rU8lvY0ni04mzPvMVPK8y",
+      "is_playable" : true,
+      "name" : "A Kind Of Magic - Remastered 2011",
+      "popularity" : 47,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9fc31777199e5889bcf185b436fe6e4f241b5a8b?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:7rU8lvY0ni04mzPvMVPK8y"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+        "id" : "0oSGxfWSnnOXhD2fKuz2Gy",
+        "name" : "David Bowie",
+        "type" : "artist",
+        "uri" : "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 236506,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029622"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1l9EJJZPLEcGn9BtKZaks7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1l9EJJZPLEcGn9BtKZaks7",
+      "id" : "1l9EJJZPLEcGn9BtKZaks7",
+      "is_playable" : true,
+      "name" : "Under Pressure - Remastered 2011",
+      "popularity" : 44,
+      "preview_url" : "https://p.scdn.co/mp3-preview/03f19ce1acb52aab62ff666c8e23774d2ab892c7?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:1l9EJJZPLEcGn9BtKZaks7"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 343320,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029623"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6hkvgLJaGTCLrbslteRmHl"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6hkvgLJaGTCLrbslteRmHl",
+      "id" : "6hkvgLJaGTCLrbslteRmHl",
+      "is_playable" : true,
+      "name" : "Radio Ga Ga - Remastered 2011",
+      "popularity" : 48,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ddb1886b31776b8532455b56132f1cc6f1d0d635?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:6hkvgLJaGTCLrbslteRmHl"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 241253,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029624"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3bGcn6a06UT9tV9XWWH7YU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3bGcn6a06UT9tV9XWWH7YU",
+      "id" : "3bGcn6a06UT9tV9XWWH7YU",
+      "is_playable" : true,
+      "name" : "I Want It All - Remastered 2011",
+      "popularity" : 43,
+      "preview_url" : "https://p.scdn.co/mp3-preview/6c3832ae992f559da5507e7137a8a65d9d91f6f1?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:3bGcn6a06UT9tV9XWWH7YU"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 258000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029625"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6OeyAT51AXNIiCAxRKHmlH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6OeyAT51AXNIiCAxRKHmlH",
+      "id" : "6OeyAT51AXNIiCAxRKHmlH",
+      "is_playable" : true,
+      "name" : "I Want To Break Free - Remastered 2011",
+      "popularity" : 48,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b7f7052d49f2b7879564d95908af8c63b9e1659f?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:6OeyAT51AXNIiCAxRKHmlH"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 388293,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029626"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7kEA8l8T6OTDN59DffAIK8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7kEA8l8T6OTDN59DffAIK8",
+      "id" : "7kEA8l8T6OTDN59DffAIK8",
+      "is_playable" : true,
+      "name" : "Innuendo - Remastered 2011",
+      "popularity" : 42,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9be68ca5dcc572b55e5e77d8eaccba89f475dd6f?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:7kEA8l8T6OTDN59DffAIK8"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 248800,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029627"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3anbfgm7kUTIdLibJmQnkk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3anbfgm7kUTIdLibJmQnkk",
+      "id" : "3anbfgm7kUTIdLibJmQnkk",
+      "is_playable" : true,
+      "name" : "It's A Hard Life - Remastered 2011",
+      "popularity" : 42,
+      "preview_url" : "https://p.scdn.co/mp3-preview/893d0fcbca97ee35d89ab713f6cf4a4a522e6547?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:3anbfgm7kUTIdLibJmQnkk"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 249146,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029628"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4yWfEHt0oBNObi2RpLLfhA"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4yWfEHt0oBNObi2RpLLfhA",
+      "id" : "4yWfEHt0oBNObi2RpLLfhA",
+      "is_playable" : true,
+      "name" : "Breakthru - Remastered 2011",
+      "popularity" : 43,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f43d4d31f47b388fb2065560a7008114c72224d3?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:4yWfEHt0oBNObi2RpLLfhA"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 295333,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029629"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7EV2eDEKHHS5fysV2lrOp8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7EV2eDEKHHS5fysV2lrOp8",
+      "id" : "7EV2eDEKHHS5fysV2lrOp8",
+      "is_playable" : true,
+      "name" : "Who Wants To Live Forever - Remastered 2011",
+      "popularity" : 43,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b965a62f17c56f1269d045ccf616fb7fe0d19caf?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:7EV2eDEKHHS5fysV2lrOp8"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 271013,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029630"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2aHv4c62XxGG9pxvednRvc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2aHv4c62XxGG9pxvednRvc",
+      "id" : "2aHv4c62XxGG9pxvednRvc",
+      "is_playable" : true,
+      "name" : "Headlong - Remastered 2011",
+      "popularity" : 41,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9709d4b76003f648becce10688a6ff887943948b?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:2aHv4c62XxGG9pxvednRvc"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 294866,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029631"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5ruiRbYMjTBZJ54YGlBYkZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5ruiRbYMjTBZJ54YGlBYkZ",
+      "id" : "5ruiRbYMjTBZJ54YGlBYkZ",
+      "is_playable" : true,
+      "name" : "The Miracle - Remastered 2011",
+      "popularity" : 40,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8f06c508d8c9cdebfe943b2d62d1d2bd13ad4004?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:5ruiRbYMjTBZJ54YGlBYkZ"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 248693,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029632"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6YaAsvoubzN4al9YJ9wNsP"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6YaAsvoubzN4al9YJ9wNsP",
+      "id" : "6YaAsvoubzN4al9YJ9wNsP",
+      "is_playable" : true,
+      "name" : "I'm Going Slightly Mad - Remastered 2011",
+      "popularity" : 40,
+      "preview_url" : "https://p.scdn.co/mp3-preview/eec6fb872b86a98ac6b5b069a15db0aafd6ca27f?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:6YaAsvoubzN4al9YJ9wNsP"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 237853,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029633"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/52a4E7d9zvOIKvvVfBhzWP"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/52a4E7d9zvOIKvvVfBhzWP",
+      "id" : "52a4E7d9zvOIKvvVfBhzWP",
+      "is_playable" : true,
+      "name" : "The Invisible Man - Remastered 2011",
+      "popularity" : 40,
+      "preview_url" : "https://p.scdn.co/mp3-preview/fb6ee0bbdda34a9872cce206fe58e26e74b37055?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:52a4E7d9zvOIKvvVfBhzWP"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 218320,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029634"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3fcpAYbJVxqbNBrEvIuCie"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3fcpAYbJVxqbNBrEvIuCie",
+      "id" : "3fcpAYbJVxqbNBrEvIuCie",
+      "is_playable" : true,
+      "name" : "Hammer To Fall - Remastered 2011",
+      "popularity" : 41,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d5a59fff03aa8ae06530d3790a9e633c77a6ba33?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:3fcpAYbJVxqbNBrEvIuCie"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 248706,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029635"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/48kxLVssHblIESQxVm5F7R"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/48kxLVssHblIESQxVm5F7R",
+      "id" : "48kxLVssHblIESQxVm5F7R",
+      "is_playable" : true,
+      "name" : "Friends Will Be Friends - Remastered 2011",
+      "popularity" : 41,
+      "preview_url" : "https://p.scdn.co/mp3-preview/93933450ab12a6dca17720419214819a2ad347d8?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:48kxLVssHblIESQxVm5F7R"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 263626,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029636"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1B4NkCp4MGQ6K7BVvTslmC"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1B4NkCp4MGQ6K7BVvTslmC",
+      "id" : "1B4NkCp4MGQ6K7BVvTslmC",
+      "is_playable" : true,
+      "name" : "The Show Must Go On - Remastered 2011",
+      "popularity" : 45,
+      "preview_url" : "https://p.scdn.co/mp3-preview/86e2ac8bd34af20d1a6e2de036818cf0a1ffbbc9?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:1B4NkCp4MGQ6K7BVvTslmC"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 2,
+      "duration_ms" : 245066,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71029637"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5BBesRFfA3d05oiqor9NB8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5BBesRFfA3d05oiqor9NB8",
+      "id" : "5BBesRFfA3d05oiqor9NB8",
+      "is_playable" : true,
+      "name" : "One Vision - Remastered 2011",
+      "popularity" : 41,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d0b8106859f5fffaf40c21480c94ccf12db2b09a?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:5BBesRFfA3d05oiqor9NB8"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+        "id" : "3PhoLpVuITZKcymswpck5b",
+        "name" : "Elton John",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+      } ],
+      "disc_number" : 3,
+      "duration_ms" : 276226,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71103752"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1WR605qZlej1Isk2PTavPp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1WR605qZlej1Isk2PTavPp",
+      "id" : "1WR605qZlej1Isk2PTavPp",
+      "is_playable" : true,
+      "name" : "The Show Must Go On - Live From Theatre National de Chaillot, Paris / 1997",
+      "popularity" : 36,
+      "preview_url" : "https://p.scdn.co/mp3-preview/de272e8942d97f3c1d60f8b1d7ba3b8c1531072e?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1WR605qZlej1Isk2PTavPp"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+        "id" : "0oSGxfWSnnOXhD2fKuz2Gy",
+        "name" : "David Bowie",
+        "type" : "artist",
+        "uri" : "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/61hyyXX16iCMj7bu3RuhTe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/61hyyXX16iCMj7bu3RuhTe",
+        "id" : "61hyyXX16iCMj7bu3RuhTe",
+        "name" : "Joshua J. Macrae",
+        "type" : "artist",
+        "uri" : "spotify:artist:61hyyXX16iCMj7bu3RuhTe"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4e76qW6V7bSS4NDvCZ09zD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4e76qW6V7bSS4NDvCZ09zD",
+        "id" : "4e76qW6V7bSS4NDvCZ09zD",
+        "name" : "Justin Shirley-Smith",
+        "type" : "artist",
+        "uri" : "spotify:artist:4e76qW6V7bSS4NDvCZ09zD"
+      } ],
+      "disc_number" : 3,
+      "duration_ms" : 249453,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71103753"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/67lzSfIDM64DjNCCdUdmBk"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/67lzSfIDM64DjNCCdUdmBk",
+      "id" : "67lzSfIDM64DjNCCdUdmBk",
+      "is_playable" : true,
+      "name" : "Under Pressure - Rah Mix / Remastered 2011",
+      "popularity" : 35,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f4291882f88dc50d8312d17ff56967c8ad5e1f96?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:67lzSfIDM64DjNCCdUdmBk"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4M1FpEWs2PeYfJe7xxJfhH",
+        "id" : "4M1FpEWs2PeYfJe7xxJfhH",
+        "name" : "Freddie Mercury",
+        "type" : "artist",
+        "uri" : "spotify:artist:4M1FpEWs2PeYfJe7xxJfhH"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6oGu0NZWy8gJ18wggybFqH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6oGu0NZWy8gJ18wggybFqH",
+        "id" : "6oGu0NZWy8gJ18wggybFqH",
+        "name" : "Montserrat Caballé",
+        "type" : "artist",
+        "uri" : "spotify:artist:6oGu0NZWy8gJ18wggybFqH"
+      } ],
+      "disc_number" : 3,
+      "duration_ms" : 264546,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71103754"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/37H4z2hMxUbLHeICp6w40V"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/37H4z2hMxUbLHeICp6w40V",
+      "id" : "37H4z2hMxUbLHeICp6w40V",
+      "is_playable" : true,
+      "name" : "Barcelona - Single Version - 2011 Remaster",
+      "popularity" : 41,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4c0031cf64651b98e9036719582a56e2f0d82c1f?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:37H4z2hMxUbLHeICp6w40V"
+    }
+  }, {
+    "added_at" : "2016-12-04T16:07:24Z",
+    "track" : {
+      "album" : {
+        "album_type" : "compilation",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M0LuPNTm4aYOxicZiN1F8",
+        "id" : "6M0LuPNTm4aYOxicZiN1F8",
+        "images" : [ {
+          "height" : 581,
+          "url" : "https://i.scdn.co/image/5b62c26a7be2f77b431cdfc82f27602e3f8b1ab2",
+          "width" : 640
+        }, {
+          "height" : 272,
+          "url" : "https://i.scdn.co/image/2f449b7a2c6161db8f390d826c625edb949c8994",
+          "width" : 300
+        }, {
+          "height" : 58,
+          "url" : "https://i.scdn.co/image/a9e4b19d4e7e96f5fd8b990ab4717c0696b77acc",
+          "width" : 64
+        } ],
+        "name" : "The Platinum Collection (2011 Remaster)",
+        "type" : "album",
+        "uri" : "spotify:album:6M0LuPNTm4aYOxicZiN1F8"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "disc_number" : 3,
+      "duration_ms" : 258693,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71103755"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3lpjd1j3xPNZetReFxYQgm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3lpjd1j3xPNZetReFxYQgm",
+      "id" : "3lpjd1j3xPNZetReFxYQgm",
+      "is_playable" : true,
+      "name" : "Too Much Love Will Kill You",
+      "popularity" : 41,
+      "preview_url" : "https://p.scdn.co/mp3-preview/752be6de00a6004fa6a17782c2291aeeedaaed25?cid=8897482848704f2a8f8d7c79726a70d4",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:3lpjd1j3xPNZetReFxYQgm"
+    }
+  } ],
+  "limit" : 50,
+  "next" : "https://api.spotify.com/v1/me/tracks?offset=450&limit=50&market=from_token",
+  "offset" : 400,
+  "previous" : "https://api.spotify.com/v1/me/tracks?offset=350&limit=50&market=from_token",
+  "total" : 1092
+}

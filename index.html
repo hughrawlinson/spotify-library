@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Track Library Browser</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.5.4/react.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.5.4/react-dom.js"></script>
+  </head>
+  <body>
+    <div id="react-root">
+    </div>
+    <script>
+var indices = [];
+for(i = 1; i < 22; i++){
+  indices.push(i);
+}
+
+Promise.all(indices.map(index => fetch(`tracks/${index}.json`).then(e=>e.json()))).then(e=>{
+  var data = e.reduce((acc,el) => {
+    return acc.concat(el.items.map(e => ({
+      date: new Date(e.added_at).toLocaleDateString(),
+      track: e.track
+    })));
+  },[]).reduce((acc,el) => {
+    acccopy = JSON.parse(JSON.stringify(acc));
+    if (acccopy[el.date]) {
+      acccopy[el.date].push(el.track)
+    } else {
+      acccopy[el.date] = [el.track]
+    }
+    return acccopy;
+  },{});
+
+
+  ReactDOM.render(
+    React.createElement(
+      ShelfContainer,
+      {
+        data:Object.keys(data).map(e => ({
+            date: e,
+            items: data[e]
+        }))
+      }
+      //Shelf,
+      //{date:"2017-02-17", items:[{title:"yay"}]}
+    ),
+    document.getElementById('react-root')
+  );
+})
+
+class ShelfContainer extends React.Component {
+  render() {
+    return React.createElement(
+        "div",
+        null,
+        this.props.data.map(d => React.createElement(Shelf, {
+          key: d.date,
+          data: d},
+        ))
+      );
+  }
+}
+
+class Shelf extends React.Component {
+  render() {
+    return React.createElement(
+        "div",
+        null,
+        [
+          React.createElement(
+            "h1",
+            null,
+            this.props.data.date),
+          this.props.data.items.map(d => React.createElement("p",{key:d.id},d.name))
+        ]);
+  }
+}
+
+    </script>
+  </body>
+</html>
